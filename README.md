@@ -65,6 +65,9 @@ I also helped with the documentation editing of videos for our community.
 
 </p>
 
+## Meetups Group:
+- I am also part of the Organizer of **AWS Data AI ML user group Europe-UK** [here](https://www.meetup.com/data-ai-ml-europe-uk/)
+- I am also a core member of **Cloudnloud Data/Gen AI/ML Labs India** Meetups group [here](https://www.meetup.com/cloudnloud-genai-labs/members/?op=leaders)
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="50px"> Contributions and Blogs
 
