@@ -61,11 +61,11 @@ I also helped with the documentation editing of videos for our community.
 <p align="center">
   <img src="https://github.com/Aadhityaa06/Aadhityaa06/assets/104068320/a7266e26-9edf-4c7f-9316-84ad52d4a3e4" ></p>
 </div>
-![image]()
 
 </p>
 
 ## Meetups Group:
+
 - I am also part of the Organizer of **AWS Data AI ML user group Europe-UK** [here](https://www.meetup.com/data-ai-ml-europe-uk/)
 - I am also a core member of **Cloudnloud Data/Gen AI/ML Labs India** Meetups group [here](https://www.meetup.com/cloudnloud-genai-labs/members/?op=leaders)
 
@@ -73,8 +73,6 @@ I also helped with the documentation editing of videos for our community.
 
 
 ## BLOGS
-
-
 
 - [AI services that are available on AWS](https://medium.com/cloudnloud/all-the-ai-services-that-are-available-on-aws-7efc57ad7662)
 - [Introduction to AWS Bedrock(Part-1)](https://medium.com/cloudnloud/introduction-to-aws-bedrock-building-powerful-generative-ai-applications-made-easy-126ee5bee61a)
