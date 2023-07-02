@@ -7,11 +7,12 @@
 🔭 I’m currently working on Blockchain, AWS Sage Maker, Gen AI<br>👯 I’m looking to collaborate on AI, ML, and Blockchain<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in Blockchain, Metaverse, Image processing AI, ML, and crypto technologies.<br>🌱 I’m currently learning GO lang, ansible, and Metaverse.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/aadhi06/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
 
 
-Now I have started to learn and going to write the exams as below:
+Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="60px">  and going to write the exams as below:
 
  [AWS Certified Machine Learning ](https://aws.amazon.com/certification/certified-machine-learning-specialty/) <br>
  
  [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1)
+
 
 </div>
 
