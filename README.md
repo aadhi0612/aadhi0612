@@ -38,13 +38,22 @@
 #### ROLE: Core Team Member ( Developer Advocate) @CloudnLoud Tech Community
 
 <P>
-I am being part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
 
-The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
+My main field of interest expertise is mostly based on AI/ML, Generative AI, Blockchain, and Ops. I am also a core developer in the 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 with almost 16K+ followers. 
 
-The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
+The CloudnLoud Tech Community is a non-profit open-source tech community, with volunteer and conducting events presented by members of the CloudnLoud Community.
 
-At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
+The goal of our community is to bring together companies, leaders, and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for a good cause to save millions of Cancer children.
+
+At CloudnLoud Tech community, we are organizing free tech conferences, technical training, and technical discussions on various IT technologies & open-source tools.
+I also helped with the documentation editing of videos for our community.
+- CloudnLoud LinkedIn[For More Info](https://www.linkedin.com/company/cloudnloud/?viewAsMember=true)
+
+- [CloudnLoud GitHub](https://github.com/cloudnloud)
+<p align="center">
+  <img src="https://github.com/Aadhityaa06/Aadhityaa06/assets/104068320/a7266e26-9edf-4c7f-9316-84ad52d4a3e4" ></p>
+</div>
+![image]()
 
 </p>
 
@@ -54,6 +63,8 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 ## BLOGS
 
+
+
 - [AI services that are available on AWS](https://medium.com/cloudnloud/all-the-ai-services-that-are-available-on-aws-7efc57ad7662)
 - [Introduction to AWS Bedrock(Part-1)](https://medium.com/cloudnloud/introduction-to-aws-bedrock-building-powerful-generative-ai-applications-made-easy-126ee5bee61a)
 - [Building Powerful Generative AI Applications with AWS Bedrock(Part-2)](https://medium.com/cloudnloud/building-powerful-generative-ai-applications-with-aws-bedrock-part-2-3a1b02a5b5af)
@@ -61,11 +72,11 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 ## Meetups
 
-Gave a speech and hands-on demo in 3 meetups one in person and other 2 virtual
+Gave a speech and hands-on demo in 3 meetups one in person and the other 2 virtual
 
 ### Real World Applications of AI and ML
 
-Took a session in detail on how to use ipynb files in aws and explained by S3 bucket and then accessing it through a Jupyter notebook instance.
+Took a session in detail on how to use .ipynb files in aws and explained by S3 bucket and then accessing it through a Jupyter Notebook instance.
 
 - Here is the repo - [Real World Applications of AI and ML](https://github.com/cloudnloud/meetup/tree/main/Applications-of-AI-and-ML)
 - LinkedIn Post AI Global meetup - [Meetup](https://www.linkedin.com/posts/aadhi06_artificialintelligence-aiabrglobalabrmeetup-activity-7037829656665853952-5h3f?utm_source=share&utm_medium=member_desktop)
@@ -90,7 +101,7 @@ Took a session in detail on how to use ipynb files in aws and explained by S3 bu
 
 ### Generative AI hands-On Deep Dive
 
-Took a session in detail on how to use ipynb files in aws and explained by S3 bucket and then accessing it through a Jupyter notebook instance.
+Took a session in detail on how to use .ipynb files in aws and explained by S3 bucket and then accessing it through a Jupyter notebook instance.
 
 - Here is the repo - [Generative AI hands On Deep dive](https://github.com/cloudnloud/meetup/tree/main/Generative_AI)
 - LinkedIn Post Gen AI Meetup - [Meetup](https://www.linkedin.com/posts/aadhi06_generativeai-speaker-cloudnloud-activity-7068682889307029504-6jns?utm_source=share&utm_medium=member_desktop)
