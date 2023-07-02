@@ -61,6 +61,23 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 ## Meetups
 
+Gave a speech and hands-on demo in 3 meetups one in person and other 2 virtual
+
+### Real World Applications of AI and ML
+
+Took a session in detail on how to use ipynb files in aws and explained by S3 bucket and then accessing it through a Jupyter notebook instance.
+
+- Here is the repo - [Real World Applications of AI and ML](https://github.com/cloudnloud/meetup/tree/main/Applications-of-AI-and-ML)
+- LinkedIn Post AI Global meetup - [Meetup](https://www.linkedin.com/posts/aadhi06_artificialintelligence-aiabrglobalabrmeetup-activity-7037829656665853952-5h3f?utm_source=share&utm_medium=member_desktop)
+- LinkedIn Post Images
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/C5622AQEzH0HaKBq0Qg/feedshare-shrink_1280/0/1677949332423?e=1691020800&v=beta&t=pwC8S3qnPK9UPq-EP6cmjN3ABNRTQsnfweYh9CTRfIA" alt="Image" width="50%" />
+</div>
+
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/C5622AQFzP9pR3GmK8g/feedshare-shrink_2048_1536/0/1678093062576?e=1691020800&v=beta&t=RQg7Uwi0QE58sKA6JgDDK7uK_CooPc2TsnSXMkleJrw" alt="Image" width="50%" />
+</div>
+- more than 150+ members attended this event.
 
 
   
@@ -68,7 +85,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 # Cloudnloud Community 2022 Free Programs
 
-- [Cloudnloud Community 2022 Free Programs](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/
+- [Cloudnloud Community 2022 Free Programs](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/)
 
 # AWS Cloud Free 2 months Internship - Week 1
 
