@@ -4,12 +4,13 @@
 <div id="header" align="center">
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 #💫 About Me:
-🔭 I’m currently working on Blockchain<br>👯 I’m looking to collaborate on AI, ML, and Blockchain<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in Blockchain, Metaverse, Image processing AI, ML, and crypto technologies.<br>🌱 I’m currently learning GO lang, ansible, and Metaverse.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/aadhi06/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
+🔭 I’m currently working on Blockchain, AWS Sage Maker, Gen AI<br>👯 I’m looking to collaborate on AI, ML, and Blockchain<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in Blockchain, Metaverse, Image processing AI, ML, and crypto technologies.<br>🌱 I’m currently learning GO lang, ansible, and Metaverse.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/aadhi06/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
 
 
 Now I have started to learn and going to write the exams as below:
 
- [AWS Certified Machine Learning ](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+ [AWS Certified Machine Learning ](https://aws.amazon.com/certification/certified-machine-learning-specialty/) <br>
+ 
  [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1)
 
 </div>
