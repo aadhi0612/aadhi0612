@@ -65,19 +65,6 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
   
 
-## ROLE: 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝗔𝗪𝗦 𝗘𝘃𝗲𝗻𝘁 O𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿/ 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 - CLoud AI Specialist
-
-<P>
-I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team and Leading AWS Data team.
-
-The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
-
-The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
-
-At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
-
-</p>
-
 
 # Cloudnloud Community 2022 Free Programs
 
