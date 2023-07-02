@@ -79,6 +79,7 @@ Took a session in detail on how to use ipynb files in aws and explained by S3 bu
 </div>
 
 - more than 150+ members attended this event.
+  
 <div align="center">
   <img src="https://github.com/Aadhityaa06/Aadhityaa06/blob/main/Image-01.jpeg" alt="Image" width="50%" />
 </div>
@@ -95,7 +96,9 @@ Took a session in detail on how to use ipynb files in aws and explained by S3 bu
 - LinkedIn Post Gen AI Meetup - [Meetup](https://www.linkedin.com/posts/aadhi06_generativeai-speaker-cloudnloud-activity-7068682889307029504-6jns?utm_source=share&utm_medium=member_desktop)
 - LinkedIn Post Gen AI Meetup - [Meetup](https://www.linkedin.com/posts/aadhi06_ai-community-cloudnloud-activity-7068605144308875264-pykV?utm_source=share&utm_medium=member_desktop)
 - LinkedIn Feedbacks More than 30 members attended this event - [Feedbacks](https://www.linkedin.com/feed/update/urn:li:activity:7068651105978626048?utm_source=share&utm_medium=member_desktop)
+  
 - LinkedIn Post Images
+
 <div align="center">
   <img src="https://media.licdn.com/dms/image/D5622AQEX_Yyxj8CUAA/feedshare-shrink_1280/0/1687800125426?e=1691020800&v=beta&t=kdWxShcKWy9jfV_voaUpM2mebqlDXqN5ufgRQ8OggIk" alt="Image" width="50%" />
 </div>
@@ -104,9 +107,6 @@ Took a session in detail on how to use ipynb files in aws and explained by S3 bu
   <img src="https://media.licdn.com/dms/image/D5622AQFcFLp0an_aZA/feedshare-shrink_800/0/1685297751876?e=1691020800&v=beta&t=L4jNFPOd7h9X2Sa3NU1hlruh_JFQ2T2pI8805nHlhJ8" alt="Image" width="50%" />
 </div>
 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/D5622AQFcFLp0an_aZA/feedshare-shrink_800/0/1685297751876?e=1691020800&v=beta&t=L4jNFPOd7h9X2Sa3NU1hlruh_JFQ2T2pI8805nHlhJ8" alt="Image" width="50%" />
-</div>
 <div align="center">
   <img src="https://github.com/Aadhityaa06/Aadhityaa06/assets/104068320/e1c63be2-9c2b-4d07-8b2b-5dd41fa8d515" alt="Image" width="50%" />
 </div>
