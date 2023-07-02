@@ -6,6 +6,12 @@
 #💫 About Me:
 🔭 I’m currently working on Blockchain<br>👯 I’m looking to collaborate on AI, ML, and Blockchain<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in Blockchain, Metaverse, Image processing AI, ML, and crypto technologies.<br>🌱 I’m currently learning GO lang, ansible, and Metaverse.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/aadhi06/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
 
+
+Now I have started to learn and going to write the exams as below:
+
+- [AWS Certified Machine Learning ](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+- [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1)
+
 </div>
 
 <div id="header" align="center">
@@ -122,7 +128,18 @@ Took a session in detail on how to use .ipynb files in aws and explained by S3 b
   <img src="https://github.com/Aadhityaa06/Aadhityaa06/assets/104068320/e1c63be2-9c2b-4d07-8b2b-5dd41fa8d515" alt="Image" width="50%" />
 </div>
 
+## Certifications
 
+
+I'm also a Certified Blockchain Developer by the Blockchain Council
+<div align="center">
+  <img src="https://github.com/Aadhityaa06/Aadhityaa06/blob/main/CBD.jpeg" width="10%"></p>
+ </div>
+Now I have started to learn and going to write the exams as below:
+ [AWS Certified Machine Learning ](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+ [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1)
+
+</div>
 
 # Cloudnloud Community 2022 Free Programs
 
