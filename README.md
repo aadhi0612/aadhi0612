@@ -9,8 +9,8 @@
 
 Now I have started to learn and going to write the exams as below:
 
-- [AWS Certified Machine Learning ](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
-- [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1)
+ [AWS Certified Machine Learning ](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+ [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1)
 
 </div>
 
