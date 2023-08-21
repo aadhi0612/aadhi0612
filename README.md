@@ -8,6 +8,7 @@
 
 
 Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="60px">  and going to write the exams as below:
+📝 I write Blogs 👉 [here](https://medium.com/@aadhityaa) 
 
  [AWS Certified Machine Learning ](https://aws.amazon.com/certification/certified-machine-learning-specialty/) <br>
  
