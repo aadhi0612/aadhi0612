@@ -12,8 +12,6 @@ Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/com
 
  [AWS Certified Machine Learning ](https://aws.amazon.com/certification/certified-machine-learning-specialty/) <br>
  
- [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1)
-
 
 </div>
 
