@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 #💫 About Me:
-🔭 I’m currently working on Blockchain, AWS Sage Maker, Gen AI<br>👯 I’m looking to collaborate on AI, ML, and Blockchain<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in Blockchain, Metaverse, Image processing AI, ML, and crypto technologies.<br>🌱 I’m currently learning GO lang, ansible, and Metaverse.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/aadhi06/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
+🔭 I’m currently working on Blockchain, AWS Sage Maker, and Gen AI<br>👯 I’m looking to collaborate on AI, ML, and Blockchain<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in Blockchain, Metaverse, Image processing AI, ML, and crypto technologies.<br>🌱 I’m currently learning GO lang, ansible, and Metaverse.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/aadhi06/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
 
 📝 I write Blogs 👉 [here](https://medium.com/@aadhityaa) 
 
@@ -90,11 +90,11 @@ Took a session in detail on how to use .ipynb files in aws and explained by S3 b
 - LinkedIn Post AI Global meetup - [Meetup](https://www.linkedin.com/posts/aadhi06_artificialintelligence-aiabrglobalabrmeetup-activity-7037829656665853952-5h3f?utm_source=share&utm_medium=member_desktop)
 - LinkedIn Post Images
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/C5622AQEzH0HaKBq0Qg/feedshare-shrink_1280/0/1677949332423?e=1691020800&v=beta&t=pwC8S3qnPK9UPq-EP6cmjN3ABNRTQsnfweYh9CTRfIA" alt="Image" width="50%" />
+  <img src="change url image 1" alt="Image" width="50%" />
 </div>
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/C5622AQFzP9pR3GmK8g/feedshare-shrink_2048_1536/0/1678093062576?e=1691020800&v=beta&t=RQg7Uwi0QE58sKA6JgDDK7uK_CooPc2TsnSXMkleJrw" alt="Image" width="50%" />
+  <img src="change url image 2" alt="Image" width="50%" />
 </div>
 
 - more than 150+ members attended this event.
@@ -119,11 +119,11 @@ Took a session in detail on how to use .ipynb files in aws and explained by S3 b
 - LinkedIn Post Images
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D5622AQEX_Yyxj8CUAA/feedshare-shrink_1280/0/1687800125426?e=1691020800&v=beta&t=kdWxShcKWy9jfV_voaUpM2mebqlDXqN5ufgRQ8OggIk" alt="Image" width="50%" />
+  <img src="image 3" alt="Image" width="50%" />
 </div>
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D5622AQFcFLp0an_aZA/feedshare-shrink_800/0/1685297751876?e=1691020800&v=beta&t=L4jNFPOd7h9X2Sa3NU1hlruh_JFQ2T2pI8805nHlhJ8" alt="Image" width="50%" />
+  <img src="image4" alt="Image" width="50%" />
 </div>
 
 <div align="center">
@@ -137,11 +137,9 @@ I'm also a Certified Blockchain Developer by the Blockchain Council
 <div align="center">
   <img src="https://github.com/Aadhityaa06/Aadhityaa06/blob/main/CBD.jpeg" width="10%"></p>
  </div>
-Now I have started to learn and going to write the exams as below:
- [AWS Certified Machine Learning ](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
- [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1)
-
 </div>
+
+## Helped in making editing videos, designing posters, and making documentation for all the below Use cases 
 
 # Cloudnloud Community 2022 Free Programs
 
