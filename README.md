@@ -90,11 +90,11 @@ Took a session in detail on how to use .ipynb files in aws and explained by S3 b
 - LinkedIn Post AI Global meetup - [Meetup](https://www.linkedin.com/posts/aadhi06_artificialintelligence-aiabrglobalabrmeetup-activity-7037829656665853952-5h3f?utm_source=share&utm_medium=member_desktop)
 - LinkedIn Post Images
 <div align="center">
-  <img src="change url image 1" alt="Image" width="50%" />
+  <img src="https://github.com/Aadhityaa06/Aadhityaa06/blob/main/image1.jpeg" alt="Image" width="50%" />
 </div>
 
 <div align="center">
-  <img src="change url image 2" alt="Image" width="50%" />
+  <img src="https://github.com/Aadhityaa06/Aadhityaa06/blob/main/image2.jpeg" alt="Image" width="50%" />
 </div>
 
 - more than 150+ members attended this event.
@@ -119,11 +119,11 @@ Took a session in detail on how to use .ipynb files in aws and explained by S3 b
 - LinkedIn Post Images
 
 <div align="center">
-  <img src="image 3" alt="Image" width="50%" />
+  <img src="https://github.com/Aadhityaa06/Aadhityaa06/blob/main/image3.jpeg" alt="Image" width="50%" />
 </div>
 
 <div align="center">
-  <img src="image4" alt="Image" width="50%" />
+  <img src="https://github.com/Aadhityaa06/Aadhityaa06/blob/main/image4.jpeg" alt="Image" width="50%" />
 </div>
 
 <div align="center">
