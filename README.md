@@ -123,6 +123,12 @@ Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/com
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"></p>
 </div>
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ### TECHNICAL CONTRIBUTION && VOLUNTEERING
 
 
