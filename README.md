@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 #💫 About Me:
-🔭 I’m currently working on Blockchain, AWS Sage Maker, and Gen AI<br>👯 I’m looking to collaborate on AI, ML, and Blockchain<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in Blockchain, Metaverse, Image processing AI, ML, and crypto technologies.<br>🌱 I’m currently learning GO lang, ansible, and Metaverse.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/aadhi06/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
+🔭 I’m currently working on Blockchain, AWS Sage Maker, and Gen AI<br>👯 I’m looking to collaborate on AI, ML, and Blockchain<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in Blockchain, Metaverse, Image processing AI, ML, and crypto technologies.<br>🌱 I’m currently learning GO lang, ansible, and Metaverse.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/aadhi0612/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
 
 📝 I write Blogs 👉 [here](https://medium.com/@aadhityaa) 
 
@@ -18,7 +18,7 @@ Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/com
 <div id="header" align="center">
   
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aadhityaaaadhi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadhityaa_aadhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadhi06) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aadhityaaaadhi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadhityaa_aadhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadhi0612) 
   
 
 # 💻 Tech Stack:
@@ -87,7 +87,7 @@ Gave a speech and hands-on demo in 3 meetups one in person and the other 2 virtu
 Took a session in detail on how to use .ipynb files in aws and explained by S3 bucket and then accessing it through a Jupyter Notebook instance.
 
 - Here is the repo - [Real World Applications of AI and ML](https://github.com/cloudnloud/meetup/tree/main/Applications-of-AI-and-ML)
-- LinkedIn Post AI Global meetup - [Meetup](https://www.linkedin.com/posts/aadhi06_artificialintelligence-aiabrglobalabrmeetup-activity-7037829656665853952-5h3f?utm_source=share&utm_medium=member_desktop)
+- LinkedIn Post AI Global meetup - [Meetup](https://www.linkedin.com/posts/aadhi0612_artificialintelligence-aiabrglobalabrmeetup-activity-7037829656665853952-5h3f?utm_source=share&utm_medium=member_desktop)
 - LinkedIn Post Images
 <div align="center">
   <img src="https://github.com/Aadhityaa06/Aadhityaa06/blob/main/image1.jpeg" alt="Image" width="50%" />
@@ -112,8 +112,8 @@ Took a session in detail on how to use .ipynb files in aws and explained by S3 b
 Took a session in detail on how to use .ipynb files in aws and explained by S3 bucket and then accessing it through a Jupyter notebook instance.
 
 - Here is the repo - [Generative AI hands On Deep dive](https://github.com/cloudnloud/meetup/tree/main/Generative_AI)
-- LinkedIn Post Gen AI Meetup - [Meetup](https://www.linkedin.com/posts/aadhi06_generativeai-speaker-cloudnloud-activity-7068682889307029504-6jns?utm_source=share&utm_medium=member_desktop)
-- LinkedIn Post Gen AI Meetup - [Meetup](https://www.linkedin.com/posts/aadhi06_ai-community-cloudnloud-activity-7068605144308875264-pykV?utm_source=share&utm_medium=member_desktop)
+- LinkedIn Post Gen AI Meetup - [Meetup](https://www.linkedin.com/posts/aadhi0612_generativeai-speaker-cloudnloud-activity-7068682889307029504-6jns?utm_source=share&utm_medium=member_desktop)
+- LinkedIn Post Gen AI Meetup - [Meetup](https://www.linkedin.com/posts/aadhi0612_ai-community-cloudnloud-activity-7068605144308875264-pykV?utm_source=share&utm_medium=member_desktop)
 - LinkedIn Feedbacks More than 30 members attended this event - [Feedbacks](https://www.linkedin.com/feed/update/urn:li:activity:7068651105978626048?utm_source=share&utm_medium=member_desktop)
   
 - LinkedIn Post Images
