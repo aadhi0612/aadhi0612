@@ -6,7 +6,7 @@
 #💫 About Me:
 🔭 I’m currently working on Blockchain, AWS Sage Maker, and Gen AI<br>👯 I’m looking to collaborate on AI, ML, and Blockchain<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in Blockchain, Metaverse, Image processing AI, ML, and crypto technologies.<br>🌱 I’m currently learning GO lang, ansible, and Metaverse.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/aadhi0612/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
 
-📝 I write Blogs 👉 [here](https://medium.com/@aadhityaa) 
+📝 I write Blogs 👉 [here](https://medium.com/@aadhi0612) 
 
 Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="60px">  and going to write the exams as below:
 
@@ -18,7 +18,7 @@ Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/com
 <div id="header" align="center">
   
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aadhityaaaadhi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadhityaa_aadhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadhi0612) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aadhi0612aadhi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadhi0612_aadhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadhi0612) 
   
 
 # 💻 Tech Stack:
