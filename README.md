@@ -151,20 +151,40 @@ I also helped with the documentation editing of videos for our community.
 
 </p>
 
-## Meetups Group:
+# Meetups Group:
 
 - I am also part of the Organizer of **AWS Data AI ML user group Europe-UK** [here](https://www.meetup.com/data-ai-ml-europe-uk/)
 
+## What We're About
+
+Let’s unite for a shared purpose to empower everyday people to change the world with Data!
+
+## What is Data in AI and ML?
+
+Machine learning is a subfield of AI, which enables a computer system to learn from data. ML algorithms depend on data as they train on information delivered by data science. Without data science, machine learning algorithms won't work as they train on datasets. No data means no training.
+
+## Why Data is Important for AI ML?
+
+In machine learning, one of the things that should be taken care of is the type of data given to the model. If we have more data, there is a higher chance for a machine learning algorithm to understand it and give accurate predictions to the unseen data respectively.
+
+## Is Data Science Different from AI ML?
+
+Data Science involves analysis, visualization, and prediction. It uses different statistical techniques, while AI and Machine Learning implements models to predict future events and makes use of algorithms.
+
+With CloudnLoud Tech Community support we are Planning to bring many cloudnative real-time knowledge sharing schedules.
+
+Social Handle- [LinkedIn](https://www.linkedin.com/in/aadhi0612/)
+
+💥 Join our Cloudnloud Tech Community for more information on Training, Re-Engineering, and career opportunities.👇
+
+Follow Page 👉 - [Page](https://lnkd.in/dJNeuhYA)
+Follow Group 👉- [Group](https://lnkd.in/e4V7bkgP)
+
+Learn More | Fail More | Grow More
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="50px"> Contributions and Blogs
 
 
-## BLOGS
-
-- [AI services that are available on AWS](https://medium.com/cloudnloud/all-the-ai-services-that-are-available-on-aws-7efc57ad7662)
-- [Introduction to AWS Bedrock(Part-1)](https://medium.com/cloudnloud/introduction-to-aws-bedrock-building-powerful-generative-ai-applications-made-easy-126ee5bee61a)
-- [Building Powerful Generative AI Applications with AWS Bedrock(Part-2)](https://medium.com/cloudnloud/building-powerful-generative-ai-applications-with-aws-bedrock-part-2-3a1b02a5b5af)
-- [Applications of Generative AI with AWS Bedrock(Part-3)](https://medium.com/cloudnloud/real-world-applications-of-generative-ai-with-aws-bedrock-ef2c3ee565d7)
 
 ## Meetups
 
