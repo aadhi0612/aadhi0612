@@ -130,6 +130,9 @@ Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/com
 - [Real-World Applications of Generative AI with AWS Bedrock](https://medium.com/cloudnloud/real-world-applications-of-generative-ai-with-aws-bedrock-ef2c3ee565d7?source=rss-db543355fc99------2)
 - [Introduction to AWS Bedrock: Building Powerful Generative AI Applications Made Easy](https://medium.com/cloudnloud/introduction-to-aws-bedrock-building-powerful-generative-ai-applications-made-easy-126ee5bee61a?source=rss-db543355fc99------2)
 - [Building Intelligent Chatbots with AWS](https://medium.com/cloudnloud/building-intelligent-chatbots-with-aws-149d04e90d5c?source=rss-db543355fc99------2)
+- [Building Powerful Generative AI Applications with AWS Bedrock — Part 2](https://medium.com/cloudnloud/building-powerful-generative-ai-applications-with-aws-bedrock-part-2-3a1b02a5b5af?source=rss-db543355fc99------2)
+- [All the AI services that are available on AWS](https://medium.com/cloudnloud/all-the-ai-services-that-are-available-on-aws-7efc57ad7662?source=rss-db543355fc99------2)
+- [How to Fix Chrome Black Screen on Linux OS &lpar;fedora, ubuntu&rpar; Wayland](https://medium.com/cloudnloud/how-to-fix-chrome-black-screen-on-linux-os-fedora-ubuntu-wayland-1db926d500b0?source=rss-db543355fc99------2)
 <!-- BLOG-POST-LIST:END -->
 
 
