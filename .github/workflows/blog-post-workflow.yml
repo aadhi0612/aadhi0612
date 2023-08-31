@@ -17,14 +17,4 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://medium.com/feed/@aadhi0612"
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "aahaanjokes@gmail.com"
-          git config --local user.name "Aadhityaa SB"
-          git commit -am "Update README with latest blog posts"
-          git push https://${{ secrets.ACCESS_TOKEN }}@github.com/aadhi0612/aadhi0612.git HEAD:main
-          
-      - name: Debug Information
-        run: |
-          echo "Push URL: https://${{ secrets.ACCESS_TOKEN }}@github.com/aadhi0612/aadhi0612.git"
-          echo "Token: ${{ secrets.ACCESS_TOKEN }}"
+      
