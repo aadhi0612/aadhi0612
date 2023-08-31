@@ -239,6 +239,69 @@ Took a session in detail on how to use .ipynb files in aws and explained by S3 b
   <img src="https://github.com/aadhi0612/aadhi0612/assets/104068320/e1c63be2-9c2b-4d07-8b2b-5dd41fa8d515" alt="Image" width="50%" />
 </div>
 
+# Elastic Meetup with Generative AI
+
+<div align="center">
+  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/WhatsApp%20Image%202023-07-08%20at%204.58.55%20PM.jpeg" alt="Image" width="50%" />
+</div>
+
+In this project, we explore the integration of Elastic Search with Generative AI techniques to enhance search capabilities and generate novel content. We've implemented three distinct use cases to showcase the potential of this integration.
+
+## Use Case 1: Voice Transformation with Generative AI
+
+We've utilized Generative AI models to transform voices. The accompanying `.ipynb` file contains the code used for this purpose. To run the notebook:
+
+1. Make sure you have the required libraries installed (specified in the notebook).
+2. Open the `.ipynb` file using a Jupyter Notebook environment.
+3. Execute the cells step by step to generate voice transformations.
+
+## Use Case 2: Direct Image Generation with LLM Model
+
+In our second use case, we demonstrate the ability to generate images directly from a Large Language Model (LLM). This can have various applications, such as content creation and artistic design. The `.ipynb` file associated with this use case contains the code.
+
+To run the notebook:
+
+1. Set up a compatible environment with the necessary libraries (outlined in the notebook).
+2. Open the `.ipynb` file using a Jupyter Notebook platform.
+3. Follow the provided instructions to generate images using the LLM model.
+
+## Use Case 3: Drag GAN Implementation
+
+Our third use case involves the implementation of Drag GAN (Generative Adversarial Network). Drag GAN is a specialized model for generating images with a focus on specific attributes.
+
+To explore this use case:
+
+1. Access the `.ipynb` file associated with the Drag GAN use case.
+2. Ensure your environment includes the required dependencies (as specified in the notebook).
+3. Open the `.ipynb` file using a Jupyter Notebook environment.
+4. Execute the cells sequentially to understand and experiment with Drag GAN.
+
+- Here is the repo - [Elastic](https://github.com/aadhi0612/Elastic-meetup-aug-26)
+- LinkedIn Post Meetup - [Meetup](https://www.linkedin.com/posts/vijayatech_cloudnloud-elastic-meetup-activity-7097194916543426560-ZiwS?utm_source=share&utm_medium=member_desktop)
+- LinkedIn Post Meetup FeedBacks - [Meetup](https://www.linkedin.com/posts/sreestack_cloudnloud-elastic-meetup-activity-7101595988821233664-PD4B?utm_source=share&utm_medium=member_desktop)
+- LinkedIn Post Meetup FeedBacks - [Meetup](https://www.linkedin.com/posts/vijayatech_elastic-community-techmeetup-activity-7101817287904559105-noWw?utm_source=share&utm_medium=member_desktop)
+- LinkedIn Post Meetup FeedBacks - [Meetup](https://www.linkedin.com/posts/vijayatech_elastic-community-techmeetup-activity-7101817287904559105-noWw?utm_source=share&utm_medium=member_desktop)
+
+
+<div align="center">
+  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/1.png" alt="Image" width="50%" />
+</div>
+
+<div style="display:flex;">
+  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/1.png" alt="Image 1" style="width:40%;">
+  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/2.png" alt="Image 2" style="width:40%;">
+  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/3.png" alt="Image 3" style="width:40%;">
+  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/4.png" alt="Image 4" style="width:40%;">
+  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/7.png" alt="Image 5" style="width:40%;">
+  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/8.png" alt="Image 6" style="width:40%;">
+  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/9.png" alt="Image 7" style="width:40%;">
+  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/10.png" alt="Image 8" style="width:40%;">
+  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/11.png" alt="Image 9" style="width:40%;">
+ 
+</div>
+
+
+
 ## Certifications
 
 
