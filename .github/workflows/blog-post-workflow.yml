@@ -19,3 +19,8 @@ jobs:
           git config --local user.name "Aadhityaa SB"
           git commit -am "Update README with latest blog posts"
           git push https://${{ secrets.ACCESS_TOKEN }}@github.com/aadhi0612/aadhi0612.git HEAD:main
+          
+      - name: Debug Information
+        run: |
+          echo "Push URL: https://${{ secrets.ACCESS_TOKEN }}@github.com/aadhi0612/aadhi0612.git"
+          echo "Token: ${{ secrets.ACCESS_TOKEN }}"
