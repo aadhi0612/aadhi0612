@@ -113,15 +113,6 @@ Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/com
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aadhi0612&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadhi0612&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=aadhi0612&icon=6&color=9)](https://visitcount.itsvg.in)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"></p>
-</div>
 
 # Blog posts
 
@@ -163,7 +154,7 @@ I also helped with the documentation editing of videos for our community.
 ## Meetups Group:
 
 - I am also part of the Organizer of **AWS Data AI ML user group Europe-UK** [here](https://www.meetup.com/data-ai-ml-europe-uk/)
-- I am also a core member of **Cloudnloud Data/Gen AI/ML Labs India** Meetups group [here](https://www.meetup.com/cloudnloud-genai-labs/members/?op=leaders)
+
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="50px"> Contributions and Blogs
 
@@ -178,6 +169,7 @@ I also helped with the documentation editing of videos for our community.
 ## Meetups
 
 Gave a speech and hands-on demo in 3 meetups one in person and the other 2 virtual
+
 
 ### Real World Applications of AI and ML
 
@@ -327,11 +319,21 @@ CloudnLoud Facebook **https://www.facebook.com/cloudnloudtech**
 	
 CloudnLoud Twitter **https://twitter.com/cloudnloud**			  
 			     
-
 ### GitHub Contributions
 <br>
 <img src="https://raw.githubusercontent.com/aadhi0612/aadhi0612/output/github-contribution-grid-snake-dark.svg">
 <br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aadhi0612&icon=6&color=9)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"></p>
+</div>
+
 
 <!---
 aadhi0612/aadhi0612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
