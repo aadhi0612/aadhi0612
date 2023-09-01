@@ -113,7 +113,6 @@ Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/com
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aadhi0612&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadhi0612&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -142,9 +141,9 @@ The goal of our community is to bring together companies, leaders, and professio
 
 At CloudnLoud Tech community, we are organizing free tech conferences, technical training, and technical discussions on various IT technologies & open-source tools.
 I also helped with the documentation editing of videos for our community.
-- CloudnLoud LinkedIn[For More Info](https://www.linkedin.com/company/cloudnloud/?viewAsMember=true)
+CloudnLoud LinkedIn[For More Info](https://www.linkedin.com/company/cloudnloud/?viewAsMember=true)
+[CloudnLoud GitHub](https://github.com/cloudnloud)
 
-- [CloudnLoud GitHub](https://github.com/cloudnloud)
 <p align="center">
   <img src="https://github.com/aadhi0612/aadhi0612/assets/104068320/a7266e26-9edf-4c7f-9316-84ad52d4a3e4" ></p>
 </div>
@@ -183,7 +182,6 @@ Follow Group 👉- [Group](https://lnkd.in/e4V7bkgP)
 Learn More | Fail More | Grow More
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="50px"> Contributions and Blogs
-
 
 
 ## Meetups
