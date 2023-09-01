@@ -113,17 +113,7 @@ Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/com
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aadhi0612&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadhi0612&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [My Shocking Experience with AWS: How My Hacked AWS Account Led to a Whopping 19 Lakh Bill](https://medium.com/cloudnloud/my-shocking-experience-with-aws-how-my-hacked-aws-account-led-to-a-whopping-19-lakh-bill-945eddd7fddf?source=rss-db543355fc99------2)
-- [Real-World Applications of Generative AI with AWS Bedrock](https://medium.com/cloudnloud/real-world-applications-of-generative-ai-with-aws-bedrock-ef2c3ee565d7?source=rss-db543355fc99------2)
-- [Introduction to AWS Bedrock: Building Powerful Generative AI Applications Made Easy](https://medium.com/cloudnloud/introduction-to-aws-bedrock-building-powerful-generative-ai-applications-made-easy-126ee5bee61a?source=rss-db543355fc99------2)
-- [Building Intelligent Chatbots with AWS](https://medium.com/cloudnloud/building-intelligent-chatbots-with-aws-149d04e90d5c?source=rss-db543355fc99------2)
-- [Building Powerful Generative AI Applications with AWS Bedrock — Part 2](https://medium.com/cloudnloud/building-powerful-generative-ai-applications-with-aws-bedrock-part-2-3a1b02a5b5af?source=rss-db543355fc99------2)
-- [All the AI services that are available on AWS](https://medium.com/cloudnloud/all-the-ai-services-that-are-available-on-aws-7efc57ad7662?source=rss-db543355fc99------2)
-- [How to Fix Chrome Black Screen on Linux OS &lpar;fedora, ubuntu&rpar; Wayland](https://medium.com/cloudnloud/how-to-fix-chrome-black-screen-on-linux-os-fedora-ubuntu-wayland-1db926d500b0?source=rss-db543355fc99------2)
-<!-- BLOG-POST-LIST:END -->
 
 
 ### TECHNICAL CONTRIBUTION && VOLUNTEERING
@@ -181,8 +171,17 @@ Follow Group 👉- [Group](https://lnkd.in/e4V7bkgP)
 
 Learn More | Fail More | Grow More
 
-# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="50px"> Contributions and Blogs
+# Blog posts and Contributions 
 
+<!-- BLOG-POST-LIST:START -->
+- [My Shocking Experience with AWS: How My Hacked AWS Account Led to a Whopping 19 Lakh Bill](https://medium.com/cloudnloud/my-shocking-experience-with-aws-how-my-hacked-aws-account-led-to-a-whopping-19-lakh-bill-945eddd7fddf?source=rss-db543355fc99------2)
+- [Real-World Applications of Generative AI with AWS Bedrock](https://medium.com/cloudnloud/real-world-applications-of-generative-ai-with-aws-bedrock-ef2c3ee565d7?source=rss-db543355fc99------2)
+- [Introduction to AWS Bedrock: Building Powerful Generative AI Applications Made Easy](https://medium.com/cloudnloud/introduction-to-aws-bedrock-building-powerful-generative-ai-applications-made-easy-126ee5bee61a?source=rss-db543355fc99------2)
+- [Building Intelligent Chatbots with AWS](https://medium.com/cloudnloud/building-intelligent-chatbots-with-aws-149d04e90d5c?source=rss-db543355fc99------2)
+- [Building Powerful Generative AI Applications with AWS Bedrock — Part 2](https://medium.com/cloudnloud/building-powerful-generative-ai-applications-with-aws-bedrock-part-2-3a1b02a5b5af?source=rss-db543355fc99------2)
+- [All the AI services that are available on AWS](https://medium.com/cloudnloud/all-the-ai-services-that-are-available-on-aws-7efc57ad7662?source=rss-db543355fc99------2)
+- [How to Fix Chrome Black Screen on Linux OS &lpar;fedora, ubuntu&rpar; Wayland](https://medium.com/cloudnloud/how-to-fix-chrome-black-screen-on-linux-os-fedora-ubuntu-wayland-1db926d500b0?source=rss-db543355fc99------2)
+<!-- BLOG-POST-LIST:END -->
 
 ## Meetups
 
