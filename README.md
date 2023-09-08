@@ -8,8 +8,8 @@
 
 📝 I write Blogs 👉 [here](https://medium.com/@aadhi0612)
 
-Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="60px">  and going to write the exams as below:
-
+Now I have started to learn <img src="https://www.instagram.com/p/Cw63k6dRuf-/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==" width="60px">  and going to write the exams as below:
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png
  [AWS Certified Machine Learning ](https://aws.amazon.com/certification/certified-machine-learning-specialty/) <br>
  
 
