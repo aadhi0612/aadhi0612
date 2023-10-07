@@ -174,11 +174,11 @@ Learn More | Fail More | Grow More
 # Blog posts and Contributions 
 
 <!-- BLOG-POST-LIST:START -->
+- [The Role of Python Libraries and How to Utilize Them Effectively](https://medium.com/cloudnloud/the-role-of-python-libraries-and-how-to-utilize-them-effectively-b0e8f7cfb4ee?source=rss-db543355fc99------2)
 - [Building a Face Mask Detector using Python and OpenCV](https://medium.com/cloudnloud/building-a-face-mask-detector-using-python-and-opencv-2654e28d8d76?source=rss-db543355fc99------2)
 - [What is Generative AI: How does it Revolutionize AI](https://medium.com/cloudnloud/what-is-generative-ai-how-does-it-revolutionize-ai-427e3fbc59fd?source=rss-db543355fc99------2)
 - [What is a Neural Network? How to Visualize It? #Blog-2](https://medium.com/cloudnloud/what-is-a-neural-network-how-to-visualize-it-blog-2-c119758a24e?source=rss-db543355fc99------2)
 - [Understanding AI: How It Works and Its Impact](https://medium.com/cloudnloud/understanding-ai-how-it-works-and-its-impact-5b39484cb0c9?source=rss-db543355fc99------2)
-- [My Shocking Experience with AWS: How My Hacked AWS Account Led to a Whopping 19 Lakh Bill](https://medium.com/cloudnloud/my-shocking-experience-with-aws-how-my-hacked-aws-account-led-to-a-whopping-19-lakh-bill-945eddd7fddf?source=rss-db543355fc99------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Meetups
