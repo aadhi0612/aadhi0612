@@ -401,9 +401,9 @@ CloudnLoud Twitter **https://twitter.com/cloudnloud**
 			     
 ### GitHub Contributions
 
-<br>
-![GitHub Snake Animation](https://github.com/aadhi0612/aadhi0612/raw/output/github-snake.gif)
-<br>
+<p align="center">
+  <img src="https://github.com/aadhi0612/aadhi0612/raw/output/github-snake.gif"></p>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
