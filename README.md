@@ -402,8 +402,14 @@ CloudnLoud Twitter **https://twitter.com/cloudnloud**
 ### GitHub Contributions
 
 <p align="center">
-  <img src="https://github.com/aadhi0612/aadhi0612/raw/output/github-snake.gif"></p>
-</div>
+  <a href="index.html">
+    <img src="https://github.com/aadhi0612/aadhi0612/raw/output/github-snake.gif" alt="GitHub Snake Animation">
+  </a>
+</p>
+
+<img src="https://github.com/aadhi0612/aadhi0612/raw/output/github-snake.gif" alt="GitHub Snake Animation">
+
+![GitHub Snake Animation](https://github.com/aadhi0612/aadhi0612/raw/output/github-snake.gif)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
