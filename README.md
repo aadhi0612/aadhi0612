@@ -174,11 +174,11 @@ Learn More | Fail More | Grow More
 # Blog posts and Contributions 
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Neural Network? How to Visualize It? #Blog-2](https://medium.com/cloudnloud/what-is-a-neural-network-how-to-visualize-it-blog-2-c119758a24e?source=rss-db543355fc99------2)
-- [Understanding AI: How It Works and Its Impact](https://medium.com/cloudnloud/understanding-ai-how-it-works-and-its-impact-5b39484cb0c9?source=rss-db543355fc99------2)
-- [My Shocking Experience with AWS: How My Hacked AWS Account Led to a Whopping 19 Lakh Bill](https://medium.com/cloudnloud/my-shocking-experience-with-aws-how-my-hacked-aws-account-led-to-a-whopping-19-lakh-bill-945eddd7fddf?source=rss-db543355fc99------2)
-- [Real-World Applications of Generative AI with AWS Bedrock](https://medium.com/cloudnloud/real-world-applications-of-generative-ai-with-aws-bedrock-ef2c3ee565d7?source=rss-db543355fc99------2)
-- [Introduction to AWS Bedrock: Building Powerful Generative AI Applications Made Easy](https://medium.com/cloudnloud/introduction-to-aws-bedrock-building-powerful-generative-ai-applications-made-easy-126ee5bee61a?source=rss-db543355fc99------2)
+- [Unveiling the World of &lpar;VAEs&rpar;](https://medium.com/cloudnloud/unveiling-the-world-of-vaes-c2c5802b5830?source=rss-db543355fc99------2)
+- [Are artificial intelligence and machine learning the same?](https://medium.com/cloudnloud/are-artificial-intelligence-and-machine-learning-the-same-ec637cffe0bf?source=rss-db543355fc99------2)
+- [Will artificial intelligence replace humans?](https://medium.com/cloudnloud/will-artificial-intelligence-replace-humans-ad1fa59322b6?source=rss-db543355fc99------2)
+- [Why artificial intelligence is important?](https://medium.com/cloudnloud/why-artificial-intelligence-is-important-5ef045db8dcf?source=rss-db543355fc99------2)
+- [Where AI is used?](https://medium.com/cloudnloud/where-ai-is-used-e4dddda544c4?source=rss-db543355fc99------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Meetups
