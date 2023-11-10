@@ -174,16 +174,18 @@ Learn More | Fail More | Grow More
 # Blog posts and Contributions 
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Unveiling the World of &lpar;VAEs&rpar;](https://medium.com/cloudnloud/unveiling-the-world-of-vaes-c2c5802b5830?source=rss-db543355fc99------2)
 - [Are artificial intelligence and machine learning the same?](https://medium.com/cloudnloud/are-artificial-intelligence-and-machine-learning-the-same-ec637cffe0bf?source=rss-db543355fc99------2)
 - [Will artificial intelligence replace humans?](https://medium.com/cloudnloud/will-artificial-intelligence-replace-humans-ad1fa59322b6?source=rss-db543355fc99------2)
 - [Why artificial intelligence is important?](https://medium.com/cloudnloud/why-artificial-intelligence-is-important-5ef045db8dcf?source=rss-db543355fc99------2)
 - [Where AI is used?](https://medium.com/cloudnloud/where-ai-is-used-e4dddda544c4?source=rss-db543355fc99------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## Meetups
 
-Gave a speech and hands-on demo in 3 meetups one in person and the other 2 virtual
+Gave a speech and hands-on demo in 10+ meetups five in person and the other five virtual
 
 
 ### Real World Applications of AI and ML
@@ -399,7 +401,15 @@ CloudnLoud Twitter **https://twitter.com/cloudnloud**
 			     
 ### GitHub Contributions
 <br>
-<img src="https://raw.githubusercontent.com/aadhi0612/aadhi0612/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/aadhi0612/aadhi0612/output/github-snake.gif">
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/aadhi0612/aadhi0612/output/github-snake-dark.svg">
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/aadhi0612/aadhi0612/output/ocean.gif">
 <br>
 
 ### ✍️ Random Dev Quote
