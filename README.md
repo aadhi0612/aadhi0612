@@ -333,9 +333,6 @@ I'm also a Certified Blockchain Developer by the Blockchain Council
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"></p>
 </div>
 
-[![Periodic Table of DevOps Tools](https://digital.ai/wp-content/themes/yoko-digitalai-child/periodic-table/self-contained/table.php)](https://digital.ai/wp-content/themes/yoko-digitalai-child/periodic-table/self-contained/table.php)
-
-
 <!---
 aadhi0612/aadhi0612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
