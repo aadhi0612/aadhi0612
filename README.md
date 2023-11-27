@@ -119,27 +119,6 @@ Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/com
 ### TECHNICAL CONTRIBUTION && VOLUNTEERING
 
 
-#### ROLE: Core Team Member ( Developer Advocate) @CloudnLoud Tech Community
-
-<P>
-
-My main field of interest expertise is mostly based on AI/ML, Generative AI, Blockchain, and Ops. I am also a core developer in the 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 with almost 16K+ followers. 
-
-The CloudnLoud Tech Community is a non-profit open-source tech community, with volunteer and conducting events presented by members of the CloudnLoud Community.
-
-The goal of our community is to bring together companies, leaders, and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for a good cause to save millions of Cancer children.
-
-At CloudnLoud Tech community, we are organizing free tech conferences, technical training, and technical discussions on various IT technologies & open-source tools.
-I also helped with the documentation editing of videos for our community.
-CloudnLoud LinkedIn[For More Info](https://www.linkedin.com/company/cloudnloud/?viewAsMember=true)
-[CloudnLoud GitHub](https://github.com/cloudnloud)
-
-<p align="center">
-  <img src="https://github.com/aadhi0612/aadhi0612/assets/104068320/a7266e26-9edf-4c7f-9316-84ad52d4a3e4" ></p>
-</div>
-
-</p>
-
 # Meetups Group:
 
 - I am also part of the Organizer of **AWS Data AI ML user group Europe-UK** [here](https://www.meetup.com/data-ai-ml-europe-uk/)
@@ -163,13 +142,6 @@ Data Science involves analysis, visualization, and prediction. It uses different
 With CloudnLoud Tech Community support we are Planning to bring many cloudnative real-time knowledge sharing schedules.
 
 Social Handle- [LinkedIn](https://www.linkedin.com/in/aadhi0612/)
-
-💥 Join our Cloudnloud Tech Community for more information on Training, Re-Engineering, and career opportunities.👇
-
-Follow Page 👉 - [Page](https://lnkd.in/dJNeuhYA)
-Follow Group 👉- [Group](https://lnkd.in/e4V7bkgP)
-
-Learn More | Fail More | Grow More
 
 # Blog posts and Contributions 
 
