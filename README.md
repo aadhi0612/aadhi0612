@@ -4,8 +4,8 @@
 <div id="header" align="center">
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 #💫 About Me:
-🔭 I’m currently working on Blockchain, AWS Sage Maker, and Gen AI<br>👯 I’m looking to collaborate on AI, ML, and Blockchain<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in Blockchain, Metaverse, Image processing AI, ML, and crypto technologies.<br>🌱 I’m currently learning GO lang, ansible, and Metaverse.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/aadhi0612/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
-
+🔭 I’m currently working on Blockchain, AWS Bed rock, and Gen AI<br>👯 I’m looking to collaborate on AI, ML, and Blockchain<br>🤝 I’m looking for help with any Consulting.<br>👀 I’m interested in Blockchain, Metaverse, Image processing AI, ML, and crypto technologies.<br>🌱 I’m currently learning GO lang, ansible, and Metaverse.<br>💬 Ask me about anything that you need help<br>📫 Reach me at <a href="https://www.linkedin.com/in/aadhi0612/"><br>    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>  </a><br>
+Sage Maker
 📝 I write Blogs 👉 [here](https://medium.com/@aadhi0612)
 
 Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="60px">  and going to write the exams as below:
@@ -121,8 +121,6 @@ Now I have started to learn <img src="https://upload.wikimedia.org/wikipedia/com
 
 # Meetups Group:
 
-- I am also part of the Organizer of **AWS Data AI ML user group Europe-UK** [here](https://www.meetup.com/data-ai-ml-europe-uk/)
-
 ## What We're About
 
 Let’s unite for a shared purpose to empower everyday people to change the world with Data!
@@ -160,7 +158,7 @@ Social Handle- [LinkedIn](https://www.linkedin.com/in/aadhi0612/)
 
 ## Meetups
 
-Gave a speech and hands-on demo in 10+ meetups five in person and the other five virtual
+Gave a speech and hands-on demo in 20+ meetups 10 in person and the other five virtual and another 5 in closed events.
 
 
 ### Real World Applications of AI and ML
@@ -168,7 +166,6 @@ Gave a speech and hands-on demo in 10+ meetups five in person and the other five
 Took a session in detail on how to use .ipynb files in aws and explained by S3 bucket and then accessing it through a Jupyter Notebook instance.
 
 - Here is the repo - [Real World Applications of AI and ML](https://github.com/cloudnloud/meetup/tree/main/Applications-of-AI-and-ML)
-- LinkedIn Post AI Global meetup - [Meetup](https://www.linkedin.com/posts/aadhi0612_artificialintelligence-aiabrglobalabrmeetup-activity-7037829656665853952-5h3f?utm_source=share&utm_medium=member_desktop)
 - LinkedIn Post Images
 <div align="center">
   <img src="https://github.com/aadhi0612/aadhi0612/blob/main/image1.jpeg" alt="Image" width="50%" />
@@ -211,11 +208,7 @@ Took a session in detail on how to use .ipynb files in aws and explained by S3 b
   <img src="https://github.com/aadhi0612/aadhi0612/assets/104068320/e1c63be2-9c2b-4d07-8b2b-5dd41fa8d515" alt="Image" width="50%" />
 </div>
 
-# Elastic Meetup with Generative AI
-
-<div align="center">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/WhatsApp%20Image%202023-07-08%20at%204.58.55%20PM.jpeg" alt="Image" width="50%" />
-</div>
+### Elastic Meetup with Generative AI
 
 In this project, we explore the integration of Elastic Search with Generative AI techniques to enhance search capabilities and generate novel content. We've implemented three distinct use cases to showcase the potential of this integration.
 
@@ -247,12 +240,6 @@ To explore this use case:
 2. Ensure your environment includes the required dependencies (as specified in the notebook).
 3. Open the `.ipynb` file using a Jupyter Notebook environment.
 4. Execute the cells sequentially to understand and experiment with Drag GAN.
-
-- Here is the repo - [Elastic](https://github.com/aadhi0612/Elastic-meetup-aug-26)
-- LinkedIn Post Meetup - [Meetup](https://www.linkedin.com/posts/vijayatech_cloudnloud-elastic-meetup-activity-7097194916543426560-ZiwS?utm_source=share&utm_medium=member_desktop)
-- LinkedIn Post Meetup FeedBacks - [Meetup](https://www.linkedin.com/posts/sreestack_cloudnloud-elastic-meetup-activity-7101595988821233664-PD4B?utm_source=share&utm_medium=member_desktop)
-- LinkedIn Post Meetup FeedBacks - [Meetup](https://www.linkedin.com/posts/vijayatech_elastic-community-techmeetup-activity-7101817287904559105-noWw?utm_source=share&utm_medium=member_desktop)
-- LinkedIn Post Meetup FeedBacks - [Meetup](https://www.linkedin.com/posts/vijayatech_elastic-community-techmeetup-activity-7101817287904559105-noWw?utm_source=share&utm_medium=member_desktop)
 
 
 <div align="center">
