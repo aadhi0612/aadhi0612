@@ -158,7 +158,66 @@ Social Handle- [LinkedIn](https://www.linkedin.com/in/aadhi0612/)
 
 ## Meetups
 
-Gave a speech and hands-on demo in 20+ meetups 10 in person and the other five virtual and another 5 in closed events.
+Gave a speech and hands-on demo in 50+ meetups 25+ in person and the other 20+ virtual and another 5 in closed events.
+
+LinkedIn Post: 
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7267092401570111490" height="552" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7265997894581723136" height="601" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7265653028911808512" height="1383" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7264036891249778690" height="1994" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7264257672726614017" height="1739" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7263587736228409345" height="634" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+https://www.linkedin.com/posts/prabhujayaseelan_techxconf2024-generativeai-cloudcomputing-ugcPost-7264004838122758146-wm3D?utm_source=share&utm_medium=member_desktop
+
+https://www.linkedin.com/posts/ramya-natesan-67499711a_i-had-the-great-opportunity-of-attending-ugcPost-7263979898413694976-cyxA?utm_source=share&utm_medium=member_desktop
+
+https://www.linkedin.com/posts/keerthivasan-kannan_techxconf2024-aws-azure-ugcPost-7263855994563158016-_ocl?utm_source=share&utm_medium=member_desktop
+
+https://www.linkedin.com/posts/drkarthim_techxconf-generativeai-cloudcomputing-ugcPost-7263903664367374336-MNju?utm_source=share&utm_medium=member_desktop
+
+https://www.linkedin.com/posts/dakshanr_techxconf2024-ai-generativeai-ugcPost-7263379813443264512-X5RX?utm_source=share&utm_medium=member_desktop
+
+https://www.linkedin.com/posts/techxconf_aiandcloudconference2024-aimodeldeployment-ugcPost-7263129303565967361-bGMY?utm_source=share&utm_medium=member_desktop
+
+https://www.linkedin.com/posts/aadhi0612_techxconf2024-tamilnadu-leadershipinit-activity-7260160942536040449-D5S0?utm_source=share&utm_medium=member_desktop
+
+https://www.linkedin.com/posts/aadhi0612_awscommunityday-aws-awscommunitydayhungary-activity-7248043038684430336-3tTY?utm_source=share&utm_medium=member_desktop
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7246576990072254465" height="1131" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7246230573273227266" height="1026" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+https://www.linkedin.com/posts/nishanth-subramanian-232a6622a_cloudnative-cncf-techgrowth-ugcPost-7244269368870592512-EotR?utm_source=share&utm_medium=member_desktop
+
+https://www.linkedin.com/posts/iamrahulkrish_happy-to-be-part-of-the-first-cncf-coimbatore-ugcPost-7244268132364681217-0wrG?utm_source=share&utm_medium=member_desktop
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7230500457385713664" 
+        height="634" 
+        width="504" 
+        frameborder="0" 
+        allowfullscreen="" 
+        title="Embedded LinkedIn Post">
+</iframe>
+
+
+https://www.linkedin.com/posts/aadhi0612_awsgenailoft-generativeai-awscommunity-activity-7230500457385713664-jfvk?utm_source=share&utm_medium=member_desktop
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7227661038383460353" height="1089" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+https://www.linkedin.com/posts/jones-zachariah-noel-n_awsgenailoftbengaluru-aws-awsugblr-ugcPost-7227564611015733248-_qA4?utm_source=share&utm_medium=member_desktop
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7227192516733808641" height="1097" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+
 
 
 ### Real World Applications of AI and ML
