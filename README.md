@@ -66,12 +66,10 @@
 
 
 
-### TECHNICAL CONTRIBUTION && VOLUNTEERING
+# TECHNICAL CONTRIBUTION && VOLUNTEERING
+## Meetups Group:
+### DATA OPS LABS
 
-
-# Meetups Group:
-
-# DATA OPS LABS
 <div align="center">
   <a href="https://www.meetup.com/dataopslabs/members/?op=leaders">
     <img src="./data-ops-labs.png" alt="Organizer of DataOps Labs on Meetup" width="50%">
@@ -113,66 +111,115 @@ Organized and contibuted multiple events.
 # Public Speaking Posts
 ### LinkedIn Posts:
 
+[![Post 0](./Images/TechXconf.png)](https://techxconf.com/speakers/aadhityaa-sb-2024) 
+
+**Title:** Speaker at Asia's Largest AI & Cloud Conference 
+
+**Description:** I am delighted to share that I was one of the speaker at Asia's Largest AI & Cloud COnference TechXConference and shared Stage Along with **Ayyanar(AJ)**. We Gave a speech on The Topic  **Secure and Scalable LLAMA Model Deployment in High-Regulatation Environments with AWS EKS and NVIDIA NIM** with more than 5000+ participants and 40+ speakers in this event that happened for 2 days.
+
+**Date:** November 15-16, 2024
+
+Some Interesting People and awesome Picture:
+
+<div style="display:flex;">
+  <img src="./Images/TechXConf1.JPG" alt="Image 1" style="width:40%;">
+  <img src="./Images/TechXConf3.JPG" alt="Image 3" style="width:40%;">
+</div>
+
+
+<div style="display:flex;">
+<div align="center">
+  <img src="./Images/TechXConf4.jpg" alt="Image 4" style="width:40%;">
+</div>
+</div>
+
+
+
+<div style="display:flex;" >
+  <img src="./Images/TechXConf7.jpeg" alt="Image 7" style="width:40%;">
+  <img src="./Images/TechXConf8.jpeg" alt="Image 8" style="width:40%;">
+</div>
+
+<div style="display:flex;">
+<div align="center">
+    <img src="./Images/TechXConf9.jpeg" alt="Image 9" style="width:40%;">
+    <img src="./Images/TechXConf6.jpeg" alt="Image 6" style="width:40%;">
+</div>
+</div>
+
+<div style="display:flex;">
+<div align="center">
+  <img src="./Images/TechXConf5.jpeg" alt="Image 5">
+</div>
+</div>
+
+
+
+___
+ 
+
+
 [![Post 1](./Post1.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7267092401570111490) 
 
 **Title:** A Heartfelt Thanks to the TechXConf 2024 Team  
-**Description:** I am delighted to share my appreciation for the fantastic experience at TechXConf 2024 in Chennai. With 5,000+ participants, 70+ speakers, and groundbreaking sessions, this event set a benchmark for tech conferences. I had the privilege of speaking on "Agentic RAG" and "Secure and Scalable LLAMA Model Deployment."  
+**Description:** I am delighted to share my appreciation for the fantastic experience at TechXConf 2024 in Chennai. With 5,000+ participants, 70+ speakers, and groundbreaking sessions, this event set a benchmark for tech conferences. I had the privilege of speaking on "Secure and Scalable LLAMA Model Deployment."  
 **Date:** November 26, 2024
-
+___
 [![Post 2](./Post2.png)](https://www.linkedin.com/feed/update/urn:li:share:7265997894581723136)  
 
 **Title:** Showcasing AWS Amplify with Bedrock  
 **Description:** Aadhityaa SB showcased how he used AWS Amplify with Bedrock as part of AI Day on #30DaysOfAmplify. Kudos to the amazing work!  
 **Date:** October 26, 2024
-
+___
 [![Post 3](./Post3.png)](https://www.linkedin.com/feed/update/urn:li:share:7265653028911808512)  
 
 **Title:** Mark Your Calendars for AI Day!  
 **Description:** Join us for AI Day as part of #30DaysOfAWSAmplify on November 23, 2024. Learn from industry experts about AI integration, serverless architecture, and launching AI-driven MicroSaaS.  
 **Date:** November 23, 2024
-
+___
 [![Post 4](./Post4.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7264036891249778690)
 
 **Title:** An Unforgettable Experience at TechXConf  
 **Description:** Delivered a session on "Secure and Scalable LLAMA Model Deployment" at TechXConf to 4,000+ attendees. The electrifying energy and networking made it an unforgettable experience.  
 **Date:** November 15-16, 2024
-
+___
 [![Post 5](./Post5.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7264257672726614017) 
 
 **Title:** Speaking on Agentic RAG at TechXConf  
 **Description:** Spoke on "Agentic RAG: A Self-Corrective Method for Retrieval-Augmented Generation" to a packed room at TechXConf 2024. Grateful for the AWS community's support!  
 **Date:** November 15, 2024
-
+___
 [![Post 6](./Post6.png)](https://www.linkedin.com/feed/update/urn:li:share:7263587736228409345)
 
 **Title:** AWS Community Gathering at TechXConf  
 **Description:** Had a fantastic time catching up with the AWS community at TechXConf. Thanks to everyone for making it memorable!  
 **Date:** November 15-16, 2024
-
+___
 [![Post 7](./Post7.png)](https://www.linkedin.com/feed/update/urn:li:share:7246576990072254465)
 
 **Title:** Speaking at AWS Community Day Budapest  
 **Description:** Thrilled to speak on "Unlocking AI Potential with Multi-Agent Systems and AWS Bedrock" at AWS Community Day Budapest. Thanks to AWS User Group Hungary for the opportunity.  
 **Date:** October 4, 2024
-
+___
 [![Post 8](./Post8.png)](https://www.linkedin.com/feed/update/urn:li:share:7246230573273227266) 
 
 **Title:** Unlocking AI Potential with AWS Bedrock  
 **Description:** Excited to share insights on multi-agent system design and deployment with AWS Bedrock. Join us virtually for AWS Community Day Budapest!  
 **Date:** October 7, 2024
-
+___
 [![Post 9](./Post9.png)](https://www.linkedin.com/feed/update/urn:li:share:7227661038383460353)
 
 **Title:** Learning at AWS GenAI Loft  
 **Description:** Amazing workshop on building with Generative AI on AWS. Thanks to Mike Chambers and the AWS team for organizing this insightful session.  
 **Date:** August 20, 2024
-
+___
 [![Post 10](./Post10.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7227192516733808641)
 
 **Title:** Evaluation for AWS Bedrock Models  
 **Description:** Shared insights on a serverless approach to evaluating AWS Bedrock Models. Check out our blog and YouTube video for more details!  
 **Date:** August 8, 2024
 
+___
 ### YouTube Videos:
 
 1. **30 Days of AWS Amplify: AWS User Group India** (Published on: Nov 23, 2024)  
@@ -202,7 +249,24 @@ Organized and contibuted multiple events.
    One of the organiser of DataOps Labs [![Details](https://github.com/user-attachments/assets/2185bceb-b1a5-4ef9-86b9-3fa98bbf7b54)](https://www.meetup.com/dataopslabs/members/?op=leaders)
 
 
-### Direct Links:
+### GitHub Contributions:
+
+1. [llmeval-bedrock-summarize-scale](https://github.com/jayyanar/llmeval-bedrock-summarize-scale)
+A tool designed to evaluate the summarization capabilities of AWS Bedrock models at scale. This project demonstrates serverless architecture and efficient processing pipelines. Also we can run multiple LLM models Evaluations at Same time. This helps in reducing time and proper Demonstration comparison between models. 
+[Demo](https://youtu.be/rFzRSJVaeZ8)
+
+2. [Multi-Agent Orchestrator - Chain Agent UI](https://github.com/jayyanar/multi-agent-orchestrator/tree/chain-agent-UI)
+A project focusing on orchestrating multi-agent systems using a Chain Agent interface. This includes intuitive UI features and support for dynamic task delegation.
+
+3. [Christ Mom Christ Child Game](https://github.com/aadhi0612/Christ-Mom-Christ-Child-Game)
+Its just a heartwarming game designed for my office colleagues interactions, blending engaging storytelling with interactive gameplay mechanics and also it is completely anonymous. Just for Fun!!
+
+4. [NVIDIA NIM Demo](https://github.com/aadhi0612/NVIDIA-NIM-Demo) 
+Demonstrates the integration of NVIDIA's Megatron NIM with AWS for multilingual AI applications. Highlights include pre-trained model deployment and performance benchmarks. This was the repository used to explain and show demo in the TechXConf. 
+
+
+
+### Direct Links To Latest Posts(2024):
 
 - [AWS Generative AI Loft - Prabhu Jayaseelan](https://www.linkedin.com/posts/prabhujayaseelan_techxconf2024-generativeai-cloudcomputing-ugcPost-7264004838122758146-wm3D?utm_source=share&utm_medium=member_desktop)
 - [AWS Generative AI Loft - Ramya Natesan](https://www.linkedin.com/posts/ramya-natesan-67499711a_i-had-the-great-opportunity-of-attending-ugcPost-7263979898413694976-cyxA?utm_source=share&utm_medium=member_desktop)
@@ -216,9 +280,6 @@ Organized and contibuted multiple events.
 - [AWS Generative AI Loft Bengaluru - Jones Zachariah Noel](https://www.linkedin.com/posts/jones-zachariah-noel-n_awsgenailoftbengaluru-aws-awsugblr-ugcPost-7227564611015733248-_qA4?utm_source=share&utm_medium=member_desktop)
 
 
-
-
-
 ### Real World Applications of AI and ML
 
 Took a session in detail on how to use .ipynb files in aws and explained by S3 bucket and then accessing it through a Jupyter Notebook instance.
@@ -226,26 +287,26 @@ Took a session in detail on how to use .ipynb files in aws and explained by S3 b
 - Here is the repo - [Real World Applications of AI and ML](https://github.com/cloudnloud/meetup/tree/main/Applications-of-AI-and-ML)
 - LinkedIn Post Images
 <div align="center">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/image1.jpeg" alt="Image" width="50%" />
+  <img src="./image1.jpeg" alt="Image" width="50%" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/image2.jpeg" alt="Image" width="50%" />
+  <img src="./image2.jpeg" alt="Image" width="50%" />
 </div>
 
 - more than 150+ members attended this event.
   
 <div align="center">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/Image-01.jpeg" alt="Image" width="50%" />
+  <img src="./Image-01.jpeg" alt="Image" width="50%" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/Image-03.jpeg" alt="Image" width="50%" />
+  <img src="./Image-03.jpeg" alt="Image" width="50%" />
 </div>
 
 ### Generative AI hands-On Deep Dive
 
-Took a session in detail on how to use .ipynb files in aws and explained by S3 bucket and then accessing it through a Jupyter notebook instance.
+Took a session in detail on how to use .ipynb files in aws SageMaker and explained by S3 bucket and then accessing it through a Jupyter notebook instance.
 
 - Here is the repo - [Generative AI hands On Deep dive](https://github.com/cloudnloud/meetup/tree/main/Generative_AI)
 - LinkedIn Post Gen AI Meetup - [Meetup](https://www.linkedin.com/posts/aadhi0612_generativeai-speaker-cloudnloud-activity-7068682889307029504-6jns?utm_source=share&utm_medium=member_desktop)
@@ -255,11 +316,11 @@ Took a session in detail on how to use .ipynb files in aws and explained by S3 b
 - LinkedIn Post Images
 
 <div align="center">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/image3.jpeg" alt="Image" width="50%" />
+  <img src="./image3.jpeg" alt="Image" width="50%" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/image4.jpeg" alt="Image" width="50%" />
+  <img src="./image4.jpeg" alt="Image" width="50%" />
 </div>
 
 <div align="center">
@@ -300,20 +361,25 @@ To explore this use case:
 4. Execute the cells sequentially to understand and experiment with Drag GAN.
 
 
-<div align="center">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/1.png" alt="Image" width="50%" />
+<div style="display:flex;">
+  <img src="./1.png" alt="Image 1" style="width:40%;">
+  <img src="./2.png" alt="Image 2" style="width:40%;">
 </div>
 
-<div style="display:flex;">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/1.png" alt="Image 1" style="width:40%;">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/2.png" alt="Image 2" style="width:40%;">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/3.png" alt="Image 3" style="width:40%;">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/4.png" alt="Image 4" style="width:40%;">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/7.png" alt="Image 5" style="width:40%;">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/8.png" alt="Image 6" style="width:40%;">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/9.png" alt="Image 7" style="width:40%;">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/10.png" alt="Image 8" style="width:40%;">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/11.png" alt="Image 9" style="width:40%;">
+<div>
+  <img src="./3.png" alt="Image 3" style="width:40%;">
+  <img src="./4.png" alt="Image 4" style="width:40%;">
+</div>
+<div>
+  <img src="./7.png" alt="Image 5" style="width:40%;">
+  <img src="./8.png" alt="Image 6" style="width:40%;">
+</div>
+<div>
+  <img src="./9.png" alt="Image 7" style="width:40%;">
+  <img src="./10.png" alt="Image 8" style="width:40%;">
+</div>
+<div>
+  <img src="./11.png" alt="Image 9" style="width:40%;">
  
 </div>
 
@@ -324,13 +390,26 @@ To explore this use case:
 
 I'm also a Certified Blockchain Developer by the Blockchain Council
 <div align="center">
-  <img src="https://github.com/aadhi0612/aadhi0612/blob/main/CBD.jpeg" width="10%"></p>
+  <img src="./CBD.jpeg" width="10%"></p>
  </div>
 </div>		  
 
+Got Certified for Being Speaker at TechXConf 2024
+<div align="center">
+  <img src="./Images/Speaker.png" width="30%"></p>
+ </div>
+</div>		
+
+Certificate Of Appreciation:
+<div align="center">
+
+[![TechXConf-2024](./Images/Certificate-TechXconf.png)](https://badge.techxconf.com/badge/86E91F1D-A6AD-43A0-AC0B-6BB56959A60F)  
+</div>		
 
 
-# 💻 Tech Stack:
+# 💻 My Tech Stack(Maybe my Skills):
+
+<div align="center">
 
 ## Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -345,7 +424,6 @@ I'm also a Certified Blockchain Developer by the Blockchain Council
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 
 ## Design and Creativity
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
@@ -409,7 +487,6 @@ I'm also a Certified Blockchain Developer by the Blockchain Council
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-
 ## Other Tools and Technologies
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -417,10 +494,8 @@ I'm also a Certified Blockchain Developer by the Blockchain Council
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![HyperLedger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
-  
+</div>
 
-
-			     
 ### GitHub Contributions
 
 <p align="center">
@@ -428,8 +503,6 @@ I'm also a Certified Blockchain Developer by the Blockchain Council
     <img src="https://github.com/aadhi0612/aadhi0612/raw/output/github-snake.gif" alt="GitHub Snake Animation">
   </a>
 </p>
-
-<img src="https://github.com/aadhi0612/aadhi0612/raw/output/github-snake.gif" alt="GitHub Snake Animation">
 
 ![GitHub Snake Animation](https://github.com/aadhi0612/aadhi0612/raw/output/github-snake.gif)
 
