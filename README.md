@@ -277,20 +277,40 @@ ___
 
 1. **30 Days of AWS Amplify: AWS User Group India** (Published on: Nov 23, 2024)  
    [![30 Days of Amplify](./30-days-of-amplify-AwsUG-India.png)](https://youtu.be/k__0DWFt3eI?t=4072)  
-   [Watch Video](https://youtu.be/k__0DWFt3eI?t=4072)
+
+<div align="center">
+  <a href="https://youtu.be/k__0DWFt3eI?t=4072">Watch Video</a>
+</div>
+
+___
 
 2. **AWS Community Day Hungary** (Published on: Oct 4, 2024)
    
    [![AWS Community Day Hungary](./ACD-Hungary.jpeg)](https://youtu.be/PrkDJeFESow?t=3683)  
-   [Watch Video](https://youtu.be/PrkDJeFESow?t=3683)
+
+<div align="center">
+  <a href="https://youtu.be/PrkDJeFESow?t=3683">Watch Video</a>
+</div>
+
+___
 
 3. **Seamless Multilingual Support with AWS and Nvidia Megatron NIM** (Published on: Nov 20, 2024)
    [![AWS and Nvidia Megatron NIM](./Seamless-multilingual.png)](https://youtu.be/mxNqOY5tEw8)  
-   [Watch Video](https://youtu.be/mxNqOY5tEw8)
+
+<div align="center">
+  <a href="https://youtu.be/mxNqOY5tEw8">Watch Video</a>
+</div>
+
+___
 
 4. **Evaluating Bedrock Large Language Models with Serverless Architecture and Amplify** (Published on: Aug 25, 2024)
    [![Evaluating BedRock LLM models](./Evaluating-BedRock-LLMs.png)](https://youtu.be/lUjRaevttnU)  
-   [Watch Video](https://youtu.be/lUjRaevttnU)
+
+<div align="center">
+  <a href="https://youtu.be/lUjRaevttnU">Watch Video</a>
+</div>
+
+___
 
 ### Other Events & Posts:
 
