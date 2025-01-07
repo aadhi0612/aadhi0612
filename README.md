@@ -113,55 +113,93 @@ Organized and contibuted multiple events.
 # Public Speaking Posts
 ### LinkedIn Posts:
 
-[![Post 1](./Post1.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7267092401570111490)  
+[![Post 1](./Post1.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7267092401570111490) 
+
 **Title:** A Heartfelt Thanks to the TechXConf 2024 Team  
 **Description:** I am delighted to share my appreciation for the fantastic experience at TechXConf 2024 in Chennai. With 5,000+ participants, 70+ speakers, and groundbreaking sessions, this event set a benchmark for tech conferences. I had the privilege of speaking on "Agentic RAG" and "Secure and Scalable LLAMA Model Deployment."  
 **Date:** November 26, 2024
 
 [![Post 2](./Post2.png)](https://www.linkedin.com/feed/update/urn:li:share:7265997894581723136)  
+
 **Title:** Showcasing AWS Amplify with Bedrock  
 **Description:** Aadhityaa SB showcased how he used AWS Amplify with Bedrock as part of AI Day on #30DaysOfAmplify. Kudos to the amazing work!  
 **Date:** October 26, 2024
 
 [![Post 3](./Post3.png)](https://www.linkedin.com/feed/update/urn:li:share:7265653028911808512)  
+
 **Title:** Mark Your Calendars for AI Day!  
 **Description:** Join us for AI Day as part of #30DaysOfAWSAmplify on November 23, 2024. Learn from industry experts about AI integration, serverless architecture, and launching AI-driven MicroSaaS.  
 **Date:** November 23, 2024
 
-[![Post 4](./Post4.png)]  
+[![Post 4](./Post4.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7264036891249778690)
+
 **Title:** An Unforgettable Experience at TechXConf  
 **Description:** Delivered a session on "Secure and Scalable LLAMA Model Deployment" at TechXConf to 4,000+ attendees. The electrifying energy and networking made it an unforgettable experience.  
 **Date:** November 15-16, 2024
 
-[![Post 5](./Post5.png)]  
+[![Post 5](./Post5.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7264257672726614017) 
+
 **Title:** Speaking on Agentic RAG at TechXConf  
 **Description:** Spoke on "Agentic RAG: A Self-Corrective Method for Retrieval-Augmented Generation" to a packed room at TechXConf 2024. Grateful for the AWS community's support!  
 **Date:** November 15, 2024
 
-[![Post 6](./Post6.png)]  
+[![Post 6](./Post6.png)](https://www.linkedin.com/feed/update/urn:li:share:7263587736228409345)
+
 **Title:** AWS Community Gathering at TechXConf  
 **Description:** Had a fantastic time catching up with the AWS community at TechXConf. Thanks to everyone for making it memorable!  
 **Date:** November 15-16, 2024
 
-[![Post 7](./Post7.png)]  
+[![Post 7](./Post7.png)](https://www.linkedin.com/feed/update/urn:li:share:7246576990072254465)
+
 **Title:** Speaking at AWS Community Day Budapest  
 **Description:** Thrilled to speak on "Unlocking AI Potential with Multi-Agent Systems and AWS Bedrock" at AWS Community Day Budapest. Thanks to AWS User Group Hungary for the opportunity.  
 **Date:** October 4, 2024
 
-[![Post 8](./Post8.png)]  
+[![Post 8](./Post8.png)](https://www.linkedin.com/feed/update/urn:li:share:7246230573273227266) 
+
 **Title:** Unlocking AI Potential with AWS Bedrock  
 **Description:** Excited to share insights on multi-agent system design and deployment with AWS Bedrock. Join us virtually for AWS Community Day Budapest!  
 **Date:** October 7, 2024
 
-[![Post 9](./Post9.png)]  
+[![Post 9](./Post9.png)](https://www.linkedin.com/feed/update/urn:li:share:7227661038383460353)
+
 **Title:** Learning at AWS GenAI Loft  
 **Description:** Amazing workshop on building with Generative AI on AWS. Thanks to Mike Chambers and the AWS team for organizing this insightful session.  
 **Date:** August 20, 2024
 
-[![Post 10](./Post10.png)]  
+[![Post 10](./Post10.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7227192516733808641)
+
 **Title:** Evaluation for AWS Bedrock Models  
 **Description:** Shared insights on a serverless approach to evaluating AWS Bedrock Models. Check out our blog and YouTube video for more details!  
 **Date:** August 8, 2024
+
+### YouTube Videos:
+
+1. **30 Days of AWS Amplify: AWS User Group India** (Published on: Nov 23, 2024)  
+   [![30 Days of Amplify](./30-days-of-amplify-AwsUG-India.png)](https://youtu.be/k__0DWFt3eI?t=4072)  
+   [Watch Video](https://youtu.be/k__0DWFt3eI?t=4072)
+
+2. **AWS Community Day Hungary** (Published on: Oct 4, 2024)
+   
+   [![AWS Community Day Hungary](./ACD-Hungary.jpeg)](https://youtu.be/PrkDJeFESow?t=3683)  
+   [Watch Video](https://youtu.be/PrkDJeFESow?t=3683)
+
+3. **Seamless Multilingual Support with AWS and Nvidia Megatron NIM** (Published on: Nov 20, 2024)
+   [![AWS and Nvidia Megatron NIM](./Seamless-multilingual.png)](https://youtu.be/mxNqOY5tEw8)  
+   [Watch Video](https://youtu.be/mxNqOY5tEw8)
+
+4. **Evaluating Bedrock Large Language Models with Serverless Architecture and Amplify** (Published on: Aug 25, 2024)
+   [![Evaluating BedRock LLM models](./Evaluating-BedRock-LLMs.png)](https://youtu.be/lUjRaevttnU)  
+   [Watch Video](https://youtu.be/lUjRaevttnU)
+
+### Other Events & Posts:
+
+1. **Blockchain MasterClass for students at KCT College Coimbatore**
+   Organised by CNCF Coimbatore: [![Details](./Blockchain-Fortified.png)](https://www.linkedin.com/feed/update/urn:li:activity:7175151697655209984)
+2. **Organiser of CNCF Coimbatore Chapter**
+   One of the organiser of CNCF Coimbatore [![Details](https://github.com/user-attachments/assets/10470efc-d974-47ca-927d-b623f4291c84)](https://community.cncf.io/cloud-native-coimbatore/)
+3. **Organiser of DataOps Labs**
+   One of the organiser of DataOps Labs [![Details](https://github.com/user-attachments/assets/2185bceb-b1a5-4ef9-86b9-3fa98bbf7b54)](https://www.meetup.com/dataopslabs/members/?op=leaders)
 
 
 ### Direct Links:
