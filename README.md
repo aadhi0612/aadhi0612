@@ -92,6 +92,7 @@ All the sessions are recorded and available in Youtube:
   </a>
 </div>
 <div id="header" align="Center">
+	
 [Subscribe!!!](https://www.meetup.com/dataopslabs/)
 </div>
 
@@ -110,48 +111,58 @@ Gave a speech and hands-on demo in 50+ meetups 25+ in person and the other 20+ v
 Organized and contibuted multiple events.
 
 # Public Speaking Posts
-### Embedded LinkedIn Posts:
-
 ### LinkedIn Posts:
 
-# Public Speaking Posts
+[![Post 1](./Post1.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7267092401570111490)  
+**Title:** A Heartfelt Thanks to the TechXConf 2024 Team  
+**Description:** I am delighted to share my appreciation for the fantastic experience at TechXConf 2024 in Chennai. With 5,000+ participants, 70+ speakers, and groundbreaking sessions, this event set a benchmark for tech conferences. I had the privilege of speaking on "Agentic RAG" and "Secure and Scalable LLAMA Model Deployment."  
+**Date:** November 26, 2024
 
-### LinkedIn Posts:
+[![Post 2](./Post2.png)](https://www.linkedin.com/feed/update/urn:li:share:7265997894581723136)  
+**Title:** Showcasing AWS Amplify with Bedrock  
+**Description:** Aadhityaa SB showcased how he used AWS Amplify with Bedrock as part of AI Day on #30DaysOfAmplify. Kudos to the amazing work!  
+**Date:** October 26, 2024
 
-[![Post 1](./post1.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7267092401570111490)
-[![Post 2](./post2.png)](https://www.linkedin.com/feed/update/urn:li:share:7265997894581723136)
-[![Post 3](./post3.png)](https://www.linkedin.com/feed/update/urn:li:share:7265653028911808512)
-[![Post 4](./post4.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7264036891249778690)
-[![Post 5](./post5.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7264257672726614017)
-[![Post 6](./post6.png)](https://www.linkedin.com/feed/update/urn:li:share:7263587736228409345)
-[![Post 7](./post7.png)](https://www.linkedin.com/feed/update/urn:li:share:7246576990072254465)
-[![Post 8](./post8.png)](https://www.linkedin.com/feed/update/urn:li:share:7246230573273227266)
-[![Post 9](./post9.png)](https://www.linkedin.com/feed/update/urn:li:share:7227661038383460353)
-[![Post 10](./post10.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7227192516733808641)
+[![Post 3](./Post3.png)](https://www.linkedin.com/feed/update/urn:li:share:7265653028911808512)  
+**Title:** Mark Your Calendars for AI Day!  
+**Description:** Join us for AI Day as part of #30DaysOfAWSAmplify on November 23, 2024. Learn from industry experts about AI integration, serverless architecture, and launching AI-driven MicroSaaS.  
+**Date:** November 23, 2024
 
+[![Post 4](./Post4.png)]  
+**Title:** An Unforgettable Experience at TechXConf  
+**Description:** Delivered a session on "Secure and Scalable LLAMA Model Deployment" at TechXConf to 4,000+ attendees. The electrifying energy and networking made it an unforgettable experience.  
+**Date:** November 15-16, 2024
 
+[![Post 5](./Post5.png)]  
+**Title:** Speaking on Agentic RAG at TechXConf  
+**Description:** Spoke on "Agentic RAG: A Self-Corrective Method for Retrieval-Augmented Generation" to a packed room at TechXConf 2024. Grateful for the AWS community's support!  
+**Date:** November 15, 2024
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7267092401570111490" height="552" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[![Post 6](./Post6.png)]  
+**Title:** AWS Community Gathering at TechXConf  
+**Description:** Had a fantastic time catching up with the AWS community at TechXConf. Thanks to everyone for making it memorable!  
+**Date:** November 15-16, 2024
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7265997894581723136" height="601" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[![Post 7](./Post7.png)]  
+**Title:** Speaking at AWS Community Day Budapest  
+**Description:** Thrilled to speak on "Unlocking AI Potential with Multi-Agent Systems and AWS Bedrock" at AWS Community Day Budapest. Thanks to AWS User Group Hungary for the opportunity.  
+**Date:** October 4, 2024
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7265653028911808512" height="1383" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[![Post 8](./Post8.png)]  
+**Title:** Unlocking AI Potential with AWS Bedrock  
+**Description:** Excited to share insights on multi-agent system design and deployment with AWS Bedrock. Join us virtually for AWS Community Day Budapest!  
+**Date:** October 7, 2024
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7264036891249778690" height="1994" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[![Post 9](./Post9.png)]  
+**Title:** Learning at AWS GenAI Loft  
+**Description:** Amazing workshop on building with Generative AI on AWS. Thanks to Mike Chambers and the AWS team for organizing this insightful session.  
+**Date:** August 20, 2024
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7264257672726614017" height="1739" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[![Post 10](./Post10.png)]  
+**Title:** Evaluation for AWS Bedrock Models  
+**Description:** Shared insights on a serverless approach to evaluating AWS Bedrock Models. Check out our blog and YouTube video for more details!  
+**Date:** August 8, 2024
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7263587736228409345" height="634" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7246576990072254465" height="1131" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7246230573273227266" height="1026" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7230500457385713664" height="634" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7227661038383460353" height="1089" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7227192516733808641" height="1097" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ### Direct Links:
 
