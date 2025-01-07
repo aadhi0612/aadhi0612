@@ -72,35 +72,64 @@
 # Meetups Group:
 
 # DATA OPS LABS
-[![Organizer of DataOps Labs on Meetup](https://www.meetup.com/img/meetup_og_image.png)](https://www.meetup.com/dataopslabs/members/?op=leaders)
+<div align="center">
+  <a href="https://www.meetup.com/dataopslabs/members/?op=leaders">
+    <img src="./data-ops-labs.png" alt="Organizer of DataOps Labs on Meetup" width="50%">
+  </a>
+</div>
+<div id="header" align="Center">
+	
+[Join Here](https://www.meetup.com/dataopslabs/)
+</div>
 
+One of the Organizer of the DataOps Labs meetups page & youtube channel. With more than 4-5 events every month!!
 
+All the sessions are recorded and available in Youtube:
 
-Let’s unite for a shared purpose to empower everyday people to change the world with Data!
+<div align="center">
+  <a href="https://www.youtube.com/@DataOpsLabsIndia" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube - DataOps Labs India" width="10%">
+  </a>
+</div>
+<div id="header" align="Center">
+[Subscribe!!!](https://www.meetup.com/dataopslabs/)
+</div>
 
-## What is Data in AI and ML?
+## About DataOps Labs.
 
-Machine learning is a subfield of AI, which enables a computer system to learn from data. ML algorithms depend on data as they train on information delivered by data science. Without data science, machine learning algorithms won't work as they train on datasets. No data means no training.
+This is a community group of members join together and share Cloud, Data, AI, Generative AI, Machine Learning, DevOps and Security professionals where we will share experiences, Recent updates with use cases, technology challenges and trends.
 
-## Why Data is Important for AI ML?
+Here all session were provided as knowledge sharing and their view only. Not opinion of company they associated.
 
-In machine learning, one of the things that should be taken care of is the type of data given to the model. If we have more data, there is a higher chance for a machine learning algorithm to understand it and give accurate predictions to the unseen data respectively.
-
-## Is Data Science Different from AI ML?
-
-Data Science involves analysis, visualization, and prediction. It uses different statistical techniques, while AI and Machine Learning implements models to predict future events and makes use of algorithms.
-
-With CloudnLoud Tech Community support we are Planning to bring many cloudnative real-time knowledge sharing schedules.
-
-Social Handle- [LinkedIn](https://www.linkedin.com/in/aadhi0612/)
+Individual who interest in learn from industry experts on various topics include, Complex Application Architecture, Bigdata, AI/ML, MLOps, DevOps and Security with usecases.
 
 
 ## Meetups
 
 Gave a speech and hands-on demo in 50+ meetups 25+ in person and the other 20+ virtual and another 5 in closed events.
+Organized and contibuted multiple events.
+
+# Public Speaking Posts
+### Embedded LinkedIn Posts:
+
+### LinkedIn Posts:
+
 # Public Speaking Posts
 
-### Embedded LinkedIn Posts:
+### LinkedIn Posts:
+
+[![Post 1](./post1.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7267092401570111490)
+[![Post 2](./post2.png)](https://www.linkedin.com/feed/update/urn:li:share:7265997894581723136)
+[![Post 3](./post3.png)](https://www.linkedin.com/feed/update/urn:li:share:7265653028911808512)
+[![Post 4](./post4.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7264036891249778690)
+[![Post 5](./post5.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7264257672726614017)
+[![Post 6](./post6.png)](https://www.linkedin.com/feed/update/urn:li:share:7263587736228409345)
+[![Post 7](./post7.png)](https://www.linkedin.com/feed/update/urn:li:share:7246576990072254465)
+[![Post 8](./post8.png)](https://www.linkedin.com/feed/update/urn:li:share:7246230573273227266)
+[![Post 9](./post9.png)](https://www.linkedin.com/feed/update/urn:li:share:7227661038383460353)
+[![Post 10](./post10.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7227192516733808641)
+
+
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7267092401570111490" height="552" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
