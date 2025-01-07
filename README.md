@@ -36,17 +36,23 @@
 📝 **Read my insights:** [Medium Blog](https://medium.com/@aadhi0612)
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aadhi0612&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aadhi0612&theme=dark&hide_border=false)<br/>
+---
+
+<div align="center">
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=aadhi0612&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aadhi0612&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadhi0612&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadhi0612&label=Profile%20views&color=0e75b6&style=flat" alt="aadhi0612" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadhi0612" alt="aadhi0612" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadhi0612&show_icons=true&locale=en" alt="aadhi0612" /></p>
+</div>
 
+---
 
 # Blog posts and Contributions 
 
@@ -387,27 +393,22 @@ To explore this use case:
 
 ## Certifications
 
-
-I'm also a Certified Blockchain Developer by the Blockchain Council
-<div align="center">
-  <img src="./CBD.jpeg" width="10%"></p>
- </div>
-</div>		  
-
-Got Certified for Being Speaker at TechXConf 2024
-<div align="center">
-  <img src="./Images/Speaker.png" width="30%"></p>
- </div>
-</div>		
-
-Certificate Of Appreciation:
 <div align="center">
 
-[![TechXConf-2024](./Images/Certificate-TechXconf.png)](https://badge.techxconf.com/badge/86E91F1D-A6AD-43A0-AC0B-6BB56959A60F)  
-</div>		
+### Blockchain Council Certification
+<img src="./CBD.jpeg" width="15%">
 
+### TechXConf 2024 Speaker Certification
+<img src="./Images/Speaker.png" width="40%">
 
-# 💻 My Tech Stack(Maybe my Skills):
+### Certificate Of Appreciation
+[![TechXConf-2024](./Images/Certificate-TechXconf.png)](https://badge.techxconf.com/badge/86E91F1D-A6AD-43A0-AC0B-6BB56959A60F)
+
+</div>
+
+---
+
+# 💻 My Tech Stack
 
 <div align="center">
 
@@ -496,24 +497,27 @@ Certificate Of Appreciation:
 
 </div>
 
+---
+
 ### GitHub Contributions
 
-<p align="center">
-  <a href="index.html">
-    <img src="https://github.com/aadhi0612/aadhi0612/raw/output/github-snake.gif" alt="GitHub Snake Animation">
-  </a>
-</p>
+<div align="center">
+  <img src="https://github.com/aadhi0612/aadhi0612/raw/output/github-snake.gif" alt="GitHub Snake Animation">
+</div>
 
-![GitHub Snake Animation](https://github.com/aadhi0612/aadhi0612/raw/output/github-snake.gif)
+---
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=aadhi0612&icon=6&color=9)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"></p>
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px">
+
 </div>
 
 <!---
