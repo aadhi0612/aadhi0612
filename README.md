@@ -29,11 +29,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aadhityaa_aadhi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadhi0612) 
   
 
-📚 **Certifications In Progress:**  
+<!-- 📚 **Certifications In Progress:**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="60px">  
-[AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+[AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/) -->
 
-📝 **Read my insights:** [Medium Blog](https://medium.com/@aadhi0612)
+## 📝 **Read my insights:** [Medium Blog](https://medium.com/@aadhi0612)
 </div>
 
 ---
