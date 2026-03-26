@@ -131,6 +131,365 @@ Organized and contibuted multiple events.
 
 Some Interesting People and awesome Picture:
 
+</div>
+
+___
+
+## 🎉 **2025 Events** 🎉
+
+<div align="center">
+
+### 📅 Event Summary
+
+| Month | Event | Location |
+|-------|-------|----------|
+| **Mar 2025** | AWSheTech Day 2025 | Chennai |
+| **May 2025** | AWS Summit Bengaluru | Bengaluru |
+| **May 2025** | AWS Community Day Bengaluru 2025 | Bengaluru |
+| **Aug 2025** | AWS DevSphere 2025 | Chennai |
+| **Aug 2025** | Launch of AI-DLC | Virtual |
+| **Aug 2025** | Power Up with AI & Bedrock | Chennai |
+| **Sep 2025** | AWS Student Community Day - Chennai | Chennai |
+| **Oct 2025** | AWS Community Day South TN | Madurai |
+| **Nov 2025** | TechXConf 2025 | Chennai |
+| **Dec 2025** | AWS Cloud Club SMVEC | Puducherry |
+| **Dec 2025** | AWS Women in Tech - AI for Bharat | Virtual |
+| **Jan 2026** | Kiro Night (Day Edition) | Bengaluru |
+| **Feb 2026** | AWS Workshop - Deploy Like a Pro | Chennai |
+
+</div>
+
+---
+
+### AWS Community Day South TN
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/psna-aws-cloud-club_aws-awscloudclubs-studentsaws-ugcPost-7389687720144510976-PvxE">
+    <img src="./Images/2025-Events/AWS%20Community%20Day%20South%20TN/image.png" alt="AWS Community Day South TN" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/psna-aws-cloud-club_aws-awscloudclubs-studentsaws-ugcPost-7389687720144510976-PvxE">Click Here To Know More</a>
+</div>
+
+**Title:** AWS Community Day South TN
+
+**Description:** Delivered a session on **"How to leverage AWS Strands SDK for creating robust and structured AI agents"** at AWS Community Day South TN, empowering students with practical knowledge on building AI agent systems.
+
+**Date:** October 25, 2025
+
+**Event Images:**
+<div style="display:flex;">
+  <img src="./Images/2025-Events/AWS%20Community%20Day%20South%20TN/image%201.png" alt="Image 1" style="width:40%;">
+  <img src="./Images/2025-Events/AWS%20Community%20Day%20South%20TN/image%202.png" alt="Image 2" style="width:40%;">
+</div>
+
+___
+
+### AWS DevSphere 2025
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/bhuvanas_awscommunity-developerproductivity-generativeai-ugcPost-7358209737768775680-SIVc">
+    <img src="./Images/2025-Events/AWS%20DevSphere%202025/image.png" alt="AWS DevSphere 2025" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/bhuvanas_awscommunity-developerproductivity-generativeai-ugcPost-7358209737768775680-SIVc">Click Here To Know More</a>
+</div>
+
+**Title:** Developer Best Practices in the Age of Generative AI
+
+**Description:** Presented at **AWS DevSphere 2025** exploring how generative AI is transforming developer productivity and code quality in modern development workflows.
+
+**Date:** August 1, 2025
+
+___
+
+### AWS Community Day Bengaluru 2025
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/srinivasan-aws_awsome-awscommunityday-awsbuilders-ugcPost-7331763741140688897-NjfB">
+    <img src="./Images/2025-Events/AWS%20Summit%20in%20Bengaluru/image.png" alt="AWS Community Day Bengaluru 2025" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/srinivasan-aws_awsome-awscommunityday-awsbuilders-ugcPost-7331763741140688897-NjfB">Click Here To Know More</a>
+</div>
+
+**Title:** AWS Community Day Bengaluru 2025
+
+**Description:** Learning about AI, Data, DevOps, Chaos Engineering, Serverless and more through insightful sessions and hands-on workshops. Amazing lineup of speakers and a great opportunity to connect with the vibrant community at AWS Summit Bengaluru organized by Amazon Web Services.
+
+**Date:** May 23, 2025
+
+___
+
+### AWS Summit in Bengaluru
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/cloudwithsunil_aws-awssummit-awssummitbengaluru-ugcPost-7327923539322253315-oMG8">
+    <img src="./Images/2025-Events/AWS%20Summit%20in%20Bengaluru/image%201.png" alt="AWS Summit Bengaluru" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/cloudwithsunil_aws-awssummit-awssummitbengaluru-ugcPost-7327923539322253315-oMG8">Click Here To Know More</a>
+</div>
+
+**Title:** AWS Summit Bengaluru 2025
+
+**Description:** AWS Summit Bengaluru 2025 explored exciting innovations in cloud and AI/ML through keynotes, live demos, and the hands-on AWS LLM League challenge.
+
+**Date:** May 8, 2025
+
+___
+
+### 𝐀𝐖𝐒𝐡𝐞𝐓𝐞𝐜𝐡 𝐃𝐚𝐲 2025
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_event-pics-activity-7314872072600461312-fzSI">
+    <img src="./Images/2025-Events/𝐀𝐖𝐒𝐡𝐞𝐓𝐞𝐜𝐡%20𝐃𝐚𝐲/image.png" alt="AWSheTech Day" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_event-pics-activity-7314872072600461312-fzSI">Click Here To Know More</a>
+</div>
+
+**Title:** AWSheTech Day 2025
+
+**Description:** Serving as a core member for **𝗔𝗪𝗦𝗵𝗲𝗧𝗲𝗰𝗵 𝗗𝗮𝘆 𝟮𝟬𝟮𝟱** was an incredible experience. Collaborating with a dedicated team to enhance the website's technical aspects and capture moments through event photography highlighted the strength and unity of women in tech.
+
+**Date:** March 15, 2025
+
+**Event Images:**
+<div style="display:flex;">
+  <img src="./Images/2025-Events/𝐀𝐖𝐒𝐡𝐞𝐓𝐞𝐜𝐡%20𝐃𝐚𝐲/image%201.png" alt="Image 1" style="width:40%;">
+  <img src="./Images/2025-Events/𝐀𝐖𝐒𝐡𝐞𝐓𝐞𝐜𝐡%20𝐃𝐚𝐲/image%202.png" alt="Image 2" style="width:40%;">
+</div>
+
+___
+
+### AWS GenAI Loft
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/srinivasan-aws_two-days-new-faces-deep-tech-big-win-ugcPost-7350239461844152320-jE-k">
+    <img src="./Images/2025-Events/AWS%20GenAI%20Loft/image.png" alt="AWS GenAI Loft" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/srinivasan-aws_two-days-new-faces-deep-tech-big-win-ugcPost-7350239461844152320-jE-k">Click Here To Know More</a>
+</div>
+
+**Title:** AWS GenAI Loft Experience
+
+**Description:** Amazing weekend at AWS GenAI Loft filled with deep discussions on GenAI architecture, hands-on workshops, and insightful conversations with the community.
+
+**Event Images:**
+<div align="center">
+  <img src="./Images/2025-Events/AWS%20GenAI%20Loft/image%201.png" alt="AWS GenAI Loft" style="width:60%;">
+</div>
+
+___
+
+### AWS Student Community Day - Chennai
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_awscommunityday-ai-studentcommunity-activity-7367482154882117632-pVJV">
+    <img src="./Images/2025-Events/AWS%20Student%20Community%20Day%20-%20Chennai/image.png" alt="AWS Student Community Day Chennai" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_awscommunityday-ai-studentcommunity-activity-7367482154882117632-pVJV">Click Here To Know More</a>
+</div>
+
+**Title:** Build Structured AI Agent Systems with AWS Strands SDK
+
+**Description:** Delivered a comprehensive session on **"Build Structured AI Agent Systems with AWS Strands SDK"** at AWS Student Community Day Chennai, inspiring students to build production-ready AI agents.
+
+**Date:** September 20, 2025
+
+**Event Images:**
+<div style="display:flex;">
+  <img src="./Images/2025-Events/AWS%20Student%20Community%20Day%20-%20Chennai/image%201.png" alt="Image 1" style="width:40%;">
+  <img src="./Images/2025-Events/AWS%20Student%20Community%20Day%20-%20Chennai/image%202.png" alt="Image 2" style="width:40%;">
+</div>
+<div style="display:flex;">
+  <img src="./Images/2025-Events/AWS%20Student%20Community%20Day%20-%20Chennai/image%203.png" alt="Image 3" style="width:40%;">
+  <img src="./Images/2025-Events/AWS%20Student%20Community%20Day%20-%20Chennai/image%204.png" alt="Image 4" style="width:40%;">
+</div>
+
+___
+
+### Launch of AI-DLC (AI-Driven Development Lifecycle)
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_pics-activity-7358059314399358976-uBdT">
+    <img src="./Images/2025-Events/Launch%20of%20A𝗜-𝗗𝗟𝗖%20(𝗔𝗜-𝗗𝗿𝗶𝘃𝗲𝗻%20𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁%20𝗟𝗶𝗳𝗲𝗰𝘆𝗰𝗹𝗲/image.png" alt="AI-DLC Launch" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_pics-activity-7358059314399358976-uBdT">Click Here To Know More</a>
+</div>
+
+**Title:** Launch of AI-DLC (AI-Driven Development Lifecycle)
+
+**Description:** Launch of AI-DLC (AI-Driven Development Lifecycle) by Swami Sivasubramanian, introducing an open methodology for designing, building, and scaling AI-powered systems.
+
+**Date:** August 1, 2025
+
+___
+
+### Power Up with AI & Bedrock
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/horizoncc_awscloudclubs-ai-awsbedrock-activity-7363933684766314496-BGZM">
+    <img src="./Images/2025-Events/Power%20Up%20with%20AI%20\u0026%20Bedrock/image.png" alt="Power Up with AI & Bedrock" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/horizoncc_awscloudclubs-ai-awsbedrock-activity-7363933684766314496-BGZM">Click Here To Know More</a>
+</div>
+
+**Title:** Power Up with AI & Bedrock
+
+**Description:** Session on AI fundamentals and latest trends, a deep dive into Amazon Bedrock, practical implementation strategies, and industry best practices for building AI solutions on Amazon Web Services.
+
+**Date:** August 23, 2025
+
+___
+
+### AWS Cloud Club SMVEC - Inauguration
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_awscloudclub-smvec-ai-activity-7404880996707401729-36qS">
+    <img src="./Images/2025-Events/AWS%20Cloud%20Club%20SMVEC/image.png" alt="AWS Cloud Club SMVEC" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_awscloudclub-smvec-ai-activity-7404880996707401729-36qS">Click Here To Know More</a>
+</div>
+
+**Title:** AWS Cloud Club SMVEC Inauguration
+
+**Description:** The inauguration of the AWS Cloud Club at Sri Manakula Vinayagar Engineering College, bringing AWS cloud education to students and fostering a community of cloud enthusiasts.
+
+**Date:** December 13, 2025
+
+**Event Images:**
+<div style="display:flex;">
+  <img src="./Images/2025-Events/AWS%20Cloud%20Club%20SMVEC/image%201.png" alt="Image 1" style="width:40%;">
+  <img src="./Images/2025-Events/AWS%20Cloud%20Club%20SMVEC/image%202.png" alt="Image 2" style="width:40%;">
+</div>
+<div align="center">
+  <img src="./Images/2025-Events/AWS%20Cloud%20Club%20SMVEC/image%203.png" alt="Image 3" style="width:40%;">
+</div>
+
+___
+
+### Kiro Night (Day Edition)
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_aws-awscommunity-awswomenintech-activity-7418184248643223552-Be9o">
+    <img src="./Images/2025-Events/Kiro%20Night/image.png" alt="Kiro Night" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_aws-awscommunity-awswomenintech-activity-7418184248643223552-Be9o">Click Here To Know More</a>
+</div>
+
+**Title:** Kiro Night (Day Edition)
+
+**Description:** **𝐊𝐢𝐫𝐨 𝐍𝐢𝐠𝐡𝐭 (𝐃𝐚𝐲 𝐄𝐝𝐢𝐭𝐢𝐨𝐧):** a hands-on, learning-by-doing experience centered around Kiro Agentic AI.
+
+**Date:** January 31, 2026
+
+**Event Images:**
+<div align="center">
+  <img src="./Images/2025-Events/Kiro%20Night/image%201.png" alt="Kiro Night" style="width:60%;">
+</div>
+
+___
+
+### Conference with KIRO Workshop
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/logeshs182_had-a-wonderful-time-reconnecting-with-my-ugcPost-7362455434575704064-wecz">
+    <img src="./Images/2025-Events/Conference%20with%20KIRO%20Workshop/image.png" alt="KIRO Workshop Conference" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/logeshs182_had-a-wonderful-time-reconnecting-with-my-ugcPost-7362455434575704064-wecz">Click Here To Know More</a>
+</div>
+
+**Title:** Round Table Conference with KIRO Workshop
+
+**Description:** Round Table Conference at the Amazon office in Bengaluru, organized by AWS User Group Bengaluru alongside the KIRO Workshop, brought together AWS community leaders, cloud club captains, and ecosystem members for discussions and collaboration.
+
+___
+
+### AWS Workshop – "Deploy Like a Pro on AWS"
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aws-cloud-club-smvec1_aws-awscloudclub-smvec-activity-7429748145506471936-qfLC">
+    <img src="./Images/2025-Events/AWS%20Workshop%20%E2%80%93%20%E2%80%9CDeploy%20Like%20a%20Pro%20on%20AWS%E2%80%9D/image.png" alt="AWS Workshop Deploy Like a Pro" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aws-cloud-club-smvec1_aws-awscloudclub-smvec-activity-7429748145506471936-qfLC">Click Here To Know More</a>
+</div>
+
+**Title:** AWS Workshop – "Deploy Like a Pro on AWS"
+
+**Description:** Workshop on how to deploy a website using AWS and understood the complete process from development to production.
+
+**Date:** February 21, 2026
+
+**Event Images:**
+<div align="center">
+  <img src="./Images/2025-Events/AWS%20Workshop%20%E2%80%93%20%E2%80%9CDeploy%20Like%20a%20Pro%20on%20AWS%E2%80%9D/image%201.png" alt="AWS Workshop" style="width:60%;">
+</div>
+
+___
+
+### TechXConf 2025
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/prabhujayaseelan_techxconf2025-techxconf-ai-ugcPost-7392300612945833984-ud-r">
+    <img src="./Images/2025-Events/TechXConf/image.png" alt="TechXConf 2025" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/prabhujayaseelan_techxconf2025-techxconf-ai-ugcPost-7392300612945833984-ud-r">Click Here To Know More</a>
+</div>
+
+**Title:** TechXConf 2025
+
+**Description:** A technology conference at Chennai Trade Centre bringing together industry experts, architects, and tech enthusiasts to explore emerging trends and real-world practices shaping the future of modern technology.
+
+**Date:** November 5, 2025
+
+**Event Images:**
+<div align="center">
+  <img src="./Images/2025-Events/TechXConf/image%201.png" alt="TechXConf 2025" style="width:60%;">
+</div>
+
+___
+
+<div style="display:flex;" align="center">
+
 <div style="display:flex;">
   <img src="./Images/TechXConf1.JPG" alt="Image 1" style="width:40%;">
   <img src="./Images/TechXConf3.JPG" alt="Image 3" style="width:40%;">
