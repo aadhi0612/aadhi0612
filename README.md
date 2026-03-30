@@ -96,9 +96,34 @@ All the sessions are recorded and available in Youtube:
   </a>
 </div>
 <div id="header" align="Center">
-	
+
 [Subscribe!!!](https://www.meetup.com/dataopslabs/)
 </div>
+
+---
+
+### AWS User Group Puducherry
+
+<div align="center">
+  <a href="https://www.meetup.com/aws-user-group-puducherry/">
+    <img src="./Images/aws-ug-puducherry-banner.avif" alt="AWS User Group Puducherry" width="50%">
+  </a>
+</div>
+<div id="header" align="Center">
+
+[Join Here](https://www.meetup.com/aws-user-group-puducherry/)
+
+</div>
+
+**Core Member & Co-Organizer** of the AWS User Group Puducherry — a community bringing together cloud enthusiasts, developers, and students to learn and share AWS knowledge through regular meetups, workshops, and hands-on sessions.
+
+<div align="center">
+  <a href="https://www.meetup.com/aws-user-group-puducherry/members/?op=leaders">
+    <img src="./Images/aws-ug-puducherry-logo.avif" alt="AWS UG Puducherry Logo" width="30%">
+  </a>
+</div>
+
+---
 
 ## About DataOps Labs.
 
@@ -108,6 +133,31 @@ Here all session were provided as knowledge sharing and their view only. Not opi
 
 Individual who interest in learn from industry experts on various topics include, Complex Application Architecture, Bigdata, AI/ML, MLOps, DevOps and Security with usecases.
 
+---
+
+### AWS User Group Puducherry
+
+<div align="center">
+  <a href="https://www.meetup.com/aws-user-group-puducherry/">
+    <img src="./Images/aws-ug-puducherry-logo.avif" alt="AWS User Group Puducherry" width="30%">
+  </a>
+</div>
+
+<div id="header" align="Center">
+
+[**Join Here**](https://www.meetup.com/aws-user-group-puducherry/) | [**Core Team**](https://www.meetup.com/aws-user-group-puducherry/members/?op=leaders)
+
+</div>
+
+**Co-Organizer of AWS User Group Puducherry**
+
+Helping build and grow the AWS community in Puducherry by organizing events, workshops, and meetups for cloud enthusiasts, developers, and students. The group brings together AWS practitioners to share knowledge, best practices, and hands-on learning experiences.
+
+<div align="center">
+  <img src="./Images/aws-ug-puducherry-banner.avif" alt="AWS User Group Puducherry Banner" width="60%">
+</div>
+
+---
 
 ## Meetups
 
@@ -143,23 +193,112 @@ ___
 
 | Month | Event | Location |
 |-------|-------|----------|
-| **Mar 2025** | AWSheTech Day 2025 | Chennai |
-| **May 2025** | AWS Summit Bengaluru | Bengaluru |
-| **May 2025** | AWS Community Day Bengaluru 2025 | Bengaluru |
-| **Aug 2025** | AWS DevSphere 2025 | Chennai |
-| **Aug 2025** | Launch of AI-DLC | Virtual |
-| **Aug 2025** | Power Up with AI & Bedrock | Chennai |
-| **Sep 2025** | AWS Student Community Day - Chennai | Chennai |
-| **Oct 2025** | AWS Community Day South TN | Madurai |
-| **Nov 2025** | TechXConf 2025 | Chennai |
+| **Mar 2026** | AWS User Group Puducherry Launch | Puducherry |
+| **Mar 2026** | AWS Community Day Chennai 2026 | Chennai |
+| **Feb 2026** | AWS Workshop - Deploy Like a Pro | Chennai |
+| **Jan 2026** | Kiro Night (Day Edition) | Bengaluru |
 | **Dec 2025** | AWS Cloud Club SMVEC | Puducherry |
 | **Dec 2025** | AWS Women in Tech - AI for Bharat | Virtual |
-| **Jan 2026** | Kiro Night (Day Edition) | Bengaluru |
-| **Feb 2026** | AWS Workshop - Deploy Like a Pro | Chennai |
+| **Nov 2025** | TechXConf 2025 | Chennai |
+| **Oct 2025** | AWS Community Day South TN | Madurai |
+| **Sep 2025** | AWS Student Community Day - Chennai | Chennai |
+| **Aug 2025** | Power Up with AI & Bedrock | Chennai |
+| **Aug 2025** | Launch of AI-DLC | Virtual |
+| **Aug 2025** | AWS DevSphere 2025 | Chennai |
+| **May 2025** | AWS Community Day Bengaluru 2025 | Bengaluru |
+| **May 2025** | AWS Summit Bengaluru | Bengaluru |
+| **Mar 2025** | AWSheTech Day 2025 | Chennai |
 
 </div>
 
 ---
+
+### AWS User Group Puducherry Launch
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_awsusergroup-awspuducherry-awscommunity-activity-7440105687994724352-kAvg">
+    <img src="./Images/2025-Events/AWS-User-Group-Puducherry/image1.jpeg" alt="AWS User Group Puducherry Launch" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_awsusergroup-awspuducherry-awscommunity-activity-7440105687994724352-kAvg">Click Here To Know More</a>
+</div>
+
+**Title:** AWS User Group – Puducherry Launch
+
+**Description:** ☁️🚀 **AWS User Group – Puducherry** — Still processing how amazing this turned out! A few weeks back, this was all about planning, coordination, messages, and figuring things out. Now, seeing a full house of **200+ registrations** and **300+ people** at the launch was truly something else.
+
+Being a **Core Member & Co-organizer**, I got to experience everything behind the scenes — the rush, the chaos, and that moment when it all finally came together. It was great to have inspiring sessions from speakers like **Ashita Prasad, Madhukiran J, S.K.V. Jayakumar, Cailassame Nedunchezhian,** and **Raghunathan S,** who brought incredible insights and energy to the stage.
+
+A special thanks to the AWS community leaders — **María Encinar, Bhuvaneswari Subramani, Sabiha Ashik, Ashwin Raiyani, Yeshwanth L M, Hussain Shabbir** — for sharing your wishes and support. It truly meant a lot to us during the launch 🌍
+
+But beyond the sessions, what stood out the most was the community — students, developers, and professionals all coming together with the same curiosity and passion to learn and connect.
+
+Huge thanks to everyone who supported this — our speakers, guests, and everyone who showed up.
+
+**Date:** March 2026
+
+**Event Images:**
+<div style="display:flex;">
+  <img src="./Images/2025-Events/AWS-User-Group-Puducherry/image2.jpeg" alt="Image 1" style="width:40%;">
+  <img src="./Images/2025-Events/AWS-User-Group-Puducherry/image3.jpeg" alt="Image 2" style="width:40%;">
+</div>
+<div style="display:flex;">
+  <img src="./Images/2025-Events/AWS-User-Group-Puducherry/image4.jpeg" alt="Image 3" style="width:40%;">
+  <img src="./Images/2025-Events/AWS-User-Group-Puducherry/image5.jpeg" alt="Image 4" style="width:40%;">
+</div>
+<div style="display:flex;">
+  <img src="./Images/2025-Events/AWS-User-Group-Puducherry/image6.jpeg" alt="Image 5" style="width:40%;">
+  <img src="./Images/2025-Events/AWS-User-Group-Puducherry/image7.jpeg" alt="Image 6" style="width:40%;">
+</div>
+
+___
+
+### AWS Community Day Chennai 2026
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_acdchennai2026-awscommunityday-acdchennai2026-activity-7438171685637267456-CdlO">
+    <img src="./Images/2025-Events/AWS-Community-Day-Chennai-2026/image1.jpeg" alt="AWS Community Day Chennai 2026" width="60%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/posts/aadhi0612_acdchennai2026-awscommunityday-acdchennai2026-activity-7438171685637267456-CdlO">Click Here To Know More</a>
+</div>
+
+**Title:** AWS Community Day Chennai 2026 — Core Organizer
+
+**Description:** ☁️🚀 **AWS Community Day Chennai 2026** — an incredible experience! After 6 years, it was amazing to see **#ACDChennai2026** happening again in Chennai. I'm really happy to have **co-organized** this event as part of the **core team**.
+
+The event brought together **400+ cloud professionals, 15+ speakers,** and **3 parallel technical tracks,** covering topics across Generative AI, Agentic AI, cloud architecture, and modern development practices. It was a full day of learning, networking, and sharing knowledge within the AWS community.
+
+Behind the scenes, organizing an event like this takes weeks of planning and teamwork — coordinating with speakers, managing logistics, building the event website, supporting the team, and ensuring everything runs smoothly on the event day. Seeing the community come together and the venue filled with passionate developers and cloud enthusiasts made all the effort worth it.
+
+What made the day even more special was the energy of the AWS community — the conversations, networking, knowledge sharing, and the excitement around learning new technologies.
+
+A huge thank you to the **core organizing team, speakers, volunteers, sponsors,** and the **entire AWS community** who made this event possible. Proud to contribute to a community that continues to learn, build, and grow together.
+
+**Date:** March 7, 2026
+
+**Event Images:**
+<div style="display:flex;">
+  <img src="./Images/2025-Events/AWS-Community-Day-Chennai-2026/image2.jpeg" alt="Image 1" style="width:40%;">
+  <img src="./Images/2025-Events/AWS-Community-Day-Chennai-2026/image3.jpeg" alt="Image 2" style="width:40%;">
+</div>
+<div style="display:flex;">
+  <img src="./Images/2025-Events/AWS-Community-Day-Chennai-2026/image4.jpeg" alt="Image 3" style="width:40%;">
+  <img src="./Images/2025-Events/AWS-Community-Day-Chennai-2026/image5.jpeg" alt="Image 4" style="width:40%;">
+</div>
+<div style="display:flex;">
+  <img src="./Images/2025-Events/AWS-Community-Day-Chennai-2026/image6.jpeg" alt="Image 5" style="width:40%;">
+  <img src="./Images/2025-Events/AWS-Community-Day-Chennai-2026/image7.jpeg" alt="Image 6" style="width:40%;">
+</div>
+<div align="center">
+  <img src="./Images/2025-Events/AWS-Community-Day-Chennai-2026/image8.jpeg" alt="Image 7" style="width:40%;">
+</div>
+
+___
 
 ### AWS Community Day South TN
 
