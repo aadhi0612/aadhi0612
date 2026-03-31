@@ -820,6 +820,66 @@ ___
    One of the organiser of DataOps Labs [![Details](https://github.com/user-attachments/assets/2185bceb-b1a5-4ef9-86b9-3fa98bbf7b54)](https://www.meetup.com/dataopslabs/members/?op=leaders)
 
 
+### 🚀 Projects Built
+
+<div align="center">
+
+#### 1. [PromptWeaver](https://promptweaver.dataopslabs.com/)
+Transform natural language prompts into production-ready multi-agent workflows with visual flowcharts and AWS Strands SDK code generation. Powered by Amazon Nova and DataOps Labs.
+
+<a href="https://promptweaver.dataopslabs.com/">
+  <img src="./Images/Projects/promptweaver.png" alt="PromptWeaver" width="60%">
+</a>
+
+---
+
+#### 2. [AgentIQ Alerts](https://www.agentiqalerts.com/)
+AI-powered personalized WhatsApp notifications for market trends, AI updates, and tech insights. Built on AWS AgentCore with serverless architecture, Cognito authentication, and DynamoDB-backed agent memory.
+
+<a href="https://www.agentiqalerts.com/">
+  <img src="./Images/Projects/agentiqalerts.png" alt="AgentIQ Alerts" width="60%">
+</a>
+
+---
+
+#### 3. [SocialsAI](http://socials.dataopslabs.com/)
+AI-powered social media management platform — generate posts and images, schedule campaigns, and publish to LinkedIn, Instagram, Twitter, and more from a single dashboard. Powered by Amazon Nova and DataOps Labs.
+
+<a href="http://socials.dataopslabs.com/">
+  <img src="./Images/Projects/socials.png" alt="SocialsAI" width="60%">
+</a>
+
+---
+
+#### 4. [AWS Community Day Chennai 2026 Website](https://acdchennai.com/)
+Official event website for AWS Community Day Chennai 2026 — featuring speaker profiles, event schedule with 3 parallel tracks, ticketing, sponsor showcase, organizer info, and venue details. Built as a core organizer of the event.
+
+<a href="https://acdchennai.com/">
+  <img src="./Images/Projects/acdchennai.png" alt="AWS Community Day Chennai 2026" width="60%">
+</a>
+
+---
+
+#### 5. [AWS User Group Puducherry Website](https://awsugpdy.com/)
+Community website for AWS User Group Puducherry — event listings, curated AWS learning resources, newsletter signup, and core team info. Built to support the launch and growth of the Puducherry AWS community.
+
+<a href="https://awsugpdy.com/">
+  <img src="./Images/Projects/awsugpdy.png" alt="AWS User Group Puducherry" width="60%">
+</a>
+
+---
+
+#### 6. [AWS Photo Booth](https://master.d3ueoz1nivc6d3.amplifyapp.com/)
+AI-powered photo booth app built for AWS community events — capture photos with custom AWS-themed frames, generate AI avatars, and browse the gallery. Hosted on AWS Amplify, powered by AWS services.
+
+<a href="https://master.d3ueoz1nivc6d3.amplifyapp.com/">
+  <img src="./Images/Projects/photobooth.png" alt="AWS Photo Booth" width="60%">
+</a>
+
+</div>
+
+---
+
 ### GitHub Contributions:
 
 1. [llmeval-bedrock-summarize-scale](https://github.com/jayyanar/llmeval-bedrock-summarize-scale)
